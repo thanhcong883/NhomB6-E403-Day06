@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Techcombank AI Chatbot - Trợ lý Ảo Hỏi đáp Khách hàng</title>
+    <meta name="description" content="Chatbot AI hỏi đáp trực tuyến Techcombank - Trợ lý ảo thông minh tra cứu FAQ ngân hàng, dịch vụ thẻ, vay mượn, tiết kiệm, bảo hiểm.">
+    <!-- CSS Link -->
+    <link rel="stylesheet" href="style.css">
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <!-- Device Container (Mockup Phone) -->
+    <div class="device-container">
+        <!-- Notch and Camera -->
+        <div class="device-notch">
+            <div class="device-camera"></div>
+        </div>
+
+        <!-- Phone Status Bar -->
+        <div class="status-bar">
+            <span class="status-time">15:45</span>
+            <div class="status-right">
+                <i class="fa-solid fa-signal"></i>
+                <span style="font-size: 11px; font-weight: bold;">LTE</span>
+                <i class="fa-solid fa-battery-three-quarters"></i>
+            </div>
+        </div>
+
+        <!-- Screen Container -->
+        <div class="app-screen">
+            
+            <!-- VIEW 1: Techcombank App Home View -->
+            <div class="home-view">
+                <!-- App Header Area (Menu + Right Stack) -->
+                <div class="home-top-section">
+                    <!-- Menu button (white circle with two bars) -->
+                    <div class="menu-btn-circle">
+                        <div class="menu-bar"></div>
+                        <div class="menu-bar"></div>
+                    </div>
+
+                    <!-- Right Stack (Balance + Promo Discount Card) -->
+                    <div class="home-right-stack">
+                        <!-- Available Balance Card -->
+                        <div class="balance-card-top">
+                            <div class="balance-card-header">
+                                <!-- SVG Techcombank Logo -->
+                                <svg class="tcb-logo" width="22" height="16" viewBox="0 0 28 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M10 0L20 10L10 20L0 10Z" fill="#da251d"/>
+                                    <path d="M18 0L28 10L18 20L8 10Z" fill="#da251d"/>
+                                    <path d="M8 10L14 4L20 10L14 16Z" fill="#ffffff"/>
+                                </svg>
+                                <span class="balance-label">Available Balance</span>
+                            </div>
+                            <div class="balance-amount-row">
+                                <span class="balance-currency">VND</span>
+                                <span class="balance-value">*********</span>
+                                <i class="fa-regular fa-eye-slash balance-toggle-eye"></i>
+                            </div>
+                        </div>
+
+                        <!-- Discount Banner Card -->
+                        <div class="discount-banner-card">
+                            <div class="discount-banner-content">
+                                <!-- Custom CSS representation of the discount badge illustration -->
+                                <div class="discount-graphic-container">
+                                    <div class="discount-30-badge">30%</div>
+                                    <div class="discount-illust-card-red">
+                                        <i class="fa-solid fa-credit-card"></i>
+                                    </div>
+                                    <div class="discount-illust-card-white">
+                                        <div class="illust-line-short"></div>
+                                        <div class="illust-line-long"></div>
+                                    </div>
+                                </div>
+                                <div class="discount-text-container">
+                                    <h4 class="discount-title">Get up to 30% discount</h4>
+                                    <p class="discount-desc">For all shopping and dining transactions via Techcombank cards in China, Thailand, Japan...</p>
+                                    <button class="discount-explore-btn">Explore now</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Quick Access Card (White background container) -->
+                <div class="quick-access-card">
+                    <!-- Main Grid (5 columns) -->
+                    <div class="main-actions-grid">
+                        <div class="main-action-item">
+                            <div class="main-action-icon wallet-icon">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <rect x="2" y="4" width="20" height="16" rx="2"/>
+                                    <path d="M12 4v16M2 10h20"/>
+                                </svg>
+                                <span class="wallet-red-dot"></span>
+                            </div>
+                            <span class="main-action-label">Accounts & Cards</span>
+                        </div>
+                        <div class="main-action-item">
+                            <div class="main-action-icon move-money-icon">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <circle cx="12" cy="12" r="10"/>
+                                    <path d="m16 10-4-4-4 4M8 14h8"/>
+                                </svg>
+                            </div>
+                            <span class="main-action-label">Move money</span>
+                        </div>
+                        <div class="main-action-item">
+                            <div class="main-action-icon scan-qr-icon">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <rect x="2" y="2" width="6" height="6" rx="1"/>
+                                    <rect x="16" y="2" width="6" height="6" rx="1"/>
+                                    <rect x="2" y="16" width="6" height="6" rx="1"/>
+                                    <path d="M16 16h2v2h-2zm4 4h2v2h-2zm-4 4h2v-2h-2zm4-4h2v2h-2zm2-2v-4h-4"/>
+                                </svg>
+                                <span class="qr-red-line"></span>
+                            </div>
+                            <span class="main-action-label">Scan QR</span>
+                        </div>
+                        <div class="main-action-item">
+                            <div class="main-action-icon cardless-icon">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <rect x="5" y="2" width="14" height="20" rx="2"/>
+                                    <circle cx="12" cy="18" r="1"/>
+                                    <path d="M9 6h6M9 10h6M12 14v-2"/>
+                                </svg>
+                                <span class="cash-dollar-symbol">$</span>
+                            </div>
+                            <span class="main-action-label">Cardless Withdrawal</span>
+                        </div>
+                        <div class="main-action-item">
+                            <div class="main-action-icon discover-icon">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
+                                    <polyline points="9 22 9 12 15 12 15 22"/>
+                                </svg>
+                            </div>
+                            <span class="main-action-label">Discover products</span>
+                        </div>
+                    </div>
+
+                    <!-- Bottom Quick Actions Row -->
+                    <div class="fast-actions-row">
+                        <div class="fast-action-pill">
+                            <div class="fast-action-badge-icon">
+                                <i class="fa-solid fa-award"></i>
+                            </div>
+                            <span class="fast-action-text">Techcombank Rewards</span>
+                        </div>
+                        <div class="fast-action-pill">
+                            <div class="fast-action-badge-icon auto-earning-badge">
+                                <i class="fa-solid fa-arrows-rotate"></i>
+                            </div>
+                            <span class="fast-action-text">Auto-Earning</span>
+                        </div>
+                        <div class="fast-action-heart">
+                            <i class="fa-regular fa-heart"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Loans & Messages Card -->
+                <div class="loans-messages-card">
+                    <div class="loans-header">
+                        <div class="loans-title-container">
+                            <h4 class="loans-title">Easy loans, flexible repayments</h4>
+                            <span class="loans-time">1 day ago</span>
+                        </div>
+                        <div class="loans-info-icon">i</div>
+                    </div>
+                    <p class="loans-desc">Your spending plan is on hold because you don't have the money yet. How can you mana...</p>
+                    
+                    <!-- Message Bar -->
+                    <div class="messages-bar">
+                        <div class="messages-left">
+                            <span class="messages-count">14</span>
+                            <span class="messages-label">Messages</span>
+                        </div>
+                        <i class="fa-solid fa-chevron-right messages-arrow"></i>
+                    </div>
+                </div>
+
+                <!-- Bottom Promotion Carousel -->
+                <div class="bottom-carousel-wrapper">
+                    <div class="bottom-carousel">
+                        <!-- Card 1 -->
+                        <div class="carousel-card promo-card-peach">
+                            <div class="carousel-card-content">
+                                <h4 class="carousel-card-title">+1% interest on your first savings deposit, with rates up to 7.75% p.a.</h4>
+                                <a href="#" class="carousel-card-link">Save now <i class="fa-solid fa-arrow-right"></i></a>
+                            </div>
+                            <div class="carousel-card-illustration">
+                                <!-- SVG gift box with +1% and coins -->
+                                <svg width="70" height="70" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <!-- Gift Box Base -->
+                                    <path d="M25 50 H75 V85 C75 88 73 90 70 90 H30 C27 90 25 88 25 85 Z" fill="#ffffff" stroke="#111111" stroke-width="2.5"/>
+                                    <rect x="20" y="40" width="60" height="12" rx="3" fill="#da251d" stroke="#111111" stroke-width="2.5"/>
+                                    <!-- Ribbon -->
+                                    <rect x="46" y="40" width="8" height="50" fill="#da251d"/>
+                                    <rect x="25" y="60" width="50" height="8" fill="#da251d"/>
+                                    <!-- Ribbon bows -->
+                                    <path d="M50 40 C40 30 35 35 45 40 Z" fill="#da251d" stroke="#111111" stroke-width="2"/>
+                                    <path d="M50 40 C60 30 65 35 55 40 Z" fill="#da251d" stroke="#111111" stroke-width="2"/>
+                                    <!-- Gold Coins Floating -->
+                                    <circle cx="15" cy="30" r="6" fill="#ffd700" stroke="#111111" stroke-width="1.5"/>
+                                    <circle cx="85" cy="45" r="7" fill="#ffd700" stroke="#111111" stroke-width="1.5"/>
+                                    <circle cx="75" cy="20" r="5" fill="#ffd700" stroke="#111111" stroke-width="1.5"/>
+                                    <!-- "+1%" Text tag -->
+                                    <rect x="25" y="10" width="50" height="24" rx="6" fill="#ffd700" stroke="#111111" stroke-width="2.5"/>
+                                    <text x="50" y="27" font-family="'Outfit', sans-serif" font-size="14" font-weight="900" fill="#111111" text-anchor="middle">+1%</text>
+                                </svg>
+                            </div>
+                        </div>
+                        <!-- Card 2 -->
+                        <div class="carousel-card promo-card-white">
+                            <div class="carousel-card-content">
+                                <h4 class="carousel-card-title">Partners & Special Offers in 2026</h4>
+                                <a href="#" class="carousel-card-link">Partner benefits <i class="fa-solid fa-arrow-right"></i></a>
+                            </div>
+                            <div class="carousel-card-illustration">
+                                <svg width="70" height="70" viewBox="0 0 100 100">
+                                    <rect x="20" y="20" width="60" height="60" rx="10" fill="#eaeaea" stroke="#111111" stroke-width="2"/>
+                                    <circle cx="50" cy="50" r="15" fill="#da251d"/>
+                                </svg>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Chatbot Floating Icon -->
+            <div class="chatbot-trigger">
+                <i class="fa-solid fa-comments"></i>
+            </div>
+
+            <!-- VIEW 2: Chatbot Q&A Screen Overlay -->
+            <div class="chat-view">
+                <!-- Chat Header -->
+                <div class="chat-header">
+                    <div class="chat-header-left">
+                        <div class="bot-avatar">
+                            🤖
+                            <div class="active-dot"></div>
+                        </div>
+                        <div class="bot-info">
+                            <h3>Trợ Lý Ảo Techcombank</h3>
+                            <p>Đang hoạt động (AI)</p>
+                        </div>
+                    </div>
+                    <div class="chat-header-right">
+                        <div class="settings-btn" id="openSettingsBtn" title="Cài đặt API">
+                            <i class="fa-solid fa-gear"></i>
+                        </div>
+                        <div class="close-chat">
+                            <i class="fa-solid fa-xmark"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Tool Indicator (ReAct thinking/acting) -->
+                <div class="tool-indicator" id="toolIndicator" style="display:none;">
+                    <div class="tool-indicator-content">
+                        <div class="tool-spinner"></div>
+                        <span class="tool-indicator-text">Đang suy luận...</span>
+                    </div>
+                </div>
+
+                <!-- Chat Messages Scroll Area -->
+                <div class="chat-messages">
+                    <!-- Message items dynamically populated by App.js -->
+                </div>
+
+                <!-- Suggested Questions (Quick Reply Chips) -->
+                <div class="suggestions-wrapper">
+                    <div class="suggestions-title">💡 CÂU HỎI THƯỜNG GẶP:</div>
+                    <div class="suggestions-list">
+                        <!-- Dynamically populated by app.js -->
+                    </div>
+                </div>
+
+                <!-- Chat Input area -->
+                <div class="chat-input-area">
+                    <div class="input-box-wrapper">
+                        <input type="text" class="chat-input" placeholder="Nhập câu hỏi tra cứu thông tin..." />
+                        <i class="fa-solid fa-microphone mic-btn"></i>
+                    </div>
+                    <button class="send-btn">
+                        <i class="fa-solid fa-paper-plane"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!-- VIEW 3: Sidebar Menu Overlay -->
+            <div class="sidebar-backdrop"></div>
+            <div class="sidebar-view">
+                <!-- Sidebar Header -->
+                <div class="sidebar-header">
+                    <div class="sidebar-header-left">
+                        <!-- TCB Logo -->
+                        <svg class="tcb-logo-white" width="28" height="20" viewBox="0 0 28 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M10 0L20 10L10 20L0 10Z" fill="#da251d"/>
+                            <path d="M18 0L28 10L18 20L8 10Z" fill="#da251d"/>
+                            <path d="M8 10L14 4L20 10L14 16Z" fill="#ffffff"/>
+                        </svg>
+                        <div class="sidebar-user-info">
+                            <span class="user-greeting">Hello,</span>
+                            <h3 class="user-name">GIANG THANH CONG</h3>
+                            <a href="#" class="membership-link">Membership <i class="fa-solid fa-chevron-right" style="font-size: 9px;"></i></a>
+                        </div>
+                    </div>
+                    <div class="close-sidebar">
+                        <i class="fa-solid fa-xmark"></i>
+                    </div>
+                </div>
+
+                <!-- Sidebar Menu Items -->
+                <div class="sidebar-menu-list">
+                    <div class="sidebar-menu-item">
+                        <i class="fa-regular fa-bell menu-item-icon"></i>
+                        <span class="menu-item-text">Message</span>
+                        <span class="sidebar-msg-badge">14</span>
+                    </div>
+                    <div class="sidebar-menu-item">
+                        <i class="fa-regular fa-comment-dots menu-item-icon"></i>
+                        <span class="menu-item-text">Payment link</span>
+                        <i class="fa-solid fa-chevron-right menu-item-chevron"></i>
+                    </div>
+                    <div class="sidebar-menu-item">
+                        <i class="fa-solid fa-building-columns menu-item-icon"></i>
+                        <span class="menu-item-text">Find a new product</span>
+                    </div>
+                    <div class="sidebar-menu-item">
+                        <i class="fa-solid fa-gear menu-item-icon"></i>
+                        <span class="menu-item-text">Settings</span>
+                    </div>
+                    <div class="sidebar-menu-item">
+                        <i class="fa-solid fa-wallet menu-item-icon"></i>
+                        <span class="menu-item-text">Card offers</span>
+                    </div>
+                    <div class="sidebar-menu-item">
+                        <i class="fa-solid fa-users menu-item-icon"></i>
+                        <span class="menu-item-text">Refer & Earn</span>
+                    </div>
+                </div>
+
+                <!-- Map & Appointment Card at bottom -->
+                <div class="sidebar-bottom-card">
+                    <div class="bottom-card-item">
+                        <!-- Custom CSS Mini Map Visual -->
+                        <div class="map-visual-box">
+                            <div class="map-grid-line-v"></div>
+                            <div class="map-grid-line-h"></div>
+                            <div class="map-dot-marker dot-1"></div>
+                            <div class="map-dot-marker dot-2"></div>
+                            <div class="map-blue-pin">
+                                <i class="fa-solid fa-location-dot"></i>
+                            </div>
+                        </div>
+                        <div class="bottom-card-text">
+                            <h4 class="card-action-title">Find branches & ATMs<br>on map</h4>
+                        </div>
+                    </div>
+                    <div class="bottom-card-divider"></div>
+                    <div class="bottom-card-item appointment-item">
+                        <div class="appointment-text-container">
+                            <h4 class="card-action-title">Book an appointment</h4>
+                            <p class="card-action-desc">For better scheduling & services at our branch</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Sidebar Footer -->
+                <div class="sidebar-footer">
+                    <button class="sign-out-btn">Sign out</button>
+                    <a href="#" class="help-support-link-btn">Help & Support</a>
+                </div>
+            </div>
+
+            <!-- VIEW 4: Help & Support Screen Overlay -->
+            <div class="help-support-view">
+                <!-- Help Header -->
+                <div class="help-header">
+                    <div class="back-btn-help">
+                        <i class="fa-solid fa-arrow-left"></i>
+                    </div>
+                    <h3 class="help-title">Help & Support</h3>
+                </div>
+
+                <!-- Help Menu list -->
+                <div class="help-menu-list">
+                    <div class="help-menu-item">
+                        <i class="fa-solid fa-phone menu-item-icon-gray"></i>
+                        <span class="help-item-text">Contact us</span>
+                    </div>
+                    <div class="help-menu-item">
+                        <i class="fa-solid fa-shield-halved menu-item-icon-gray"></i>
+                        <span class="help-item-text">Security guide</span>
+                    </div>
+                    <div class="help-menu-item">
+                        <i class="fa-solid fa-book-open menu-item-icon-gray"></i>
+                        <span class="help-item-text">User Guide</span>
+                    </div>
+                </div>
+
+                <!-- Help Footer -->
+                <div class="help-footer">
+                    <span class="app-version">Version 4.0.11</span>
+                </div>
+            </div>
+
+            <!-- Face ID Verification Overlay -->
+            <div class="faceid-overlay" id="faceIDOverlay" style="display:none;">
+                <div class="faceid-content">
+                    <div class="faceid-scan-ring scanning" id="faceIDScanRing">
+                        <div class="faceid-face-icon" id="faceIDIcon">🙂</div>
+                    </div>
+                    <div class="faceid-status" id="faceIDStatus">Đang quét Face ID...</div>
+                    <div class="faceid-subtitle" id="faceIDSubtitle">Vui lòng nhìn thẳng vào camera</div>
+                    <button class="faceid-retry-btn" id="faceIDRetryBtn" style="display:none;" onclick="window.retryFaceID()">🔄 Thử lại</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- External Project Info & Instructions Panel -->
+    <div class="web-info-panel">
+        <h2>Techcombank Q&A Bot</h2>
+        <span class="feature-tag">🤖 TF-IDF AI Search Engine</span>
+        
+        <p>Chatbot AI tra cứu <strong>toàn bộ cơ sở tri thức Techcombank</strong> sử dụng thuật toán <strong>TF-IDF + Cosine Similarity</strong> để tìm kiếm câu trả lời chính xác nhất cho mỗi câu hỏi của khách hàng.</p>
+        
+        <div class="faq-stats">
+            <div class="stat-box">
+                <div class="stat-num" id="faq-count">---</div>
+                <div class="stat-label">Câu hỏi FAQ</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-num">TF-IDF</div>
+                <div class="stat-label">Search Engine</div>
+            </div>
+        </div>
+
+        <h3 style="font-size: 15px; margin-bottom: 10px; font-weight: 600;">Hướng dẫn kiểm thử:</h3>
+        <ul class="instruction-list">
+            <li><strong>Mở Chatbot:</strong> Nhấn nút chat <i class="fa-solid fa-comments" style="color:var(--primary-color);"></i> đỏ nhấp nháy góc phải.</li>
+            <li><strong>Happy Path:</strong> Gõ <em>"Quên PIN thẻ phải làm gì?"</em> hoặc <em>"Cách mở tài khoản?"</em> — AI trả lời + hiện <strong>độ tin cậy</strong> + <strong>câu hỏi liên quan</strong>.</li>
+            <li><strong>Emergency:</strong> Gõ <em>"tôi bị lừa đảo"</em> hoặc <em>"tài khoản bị hack"</em> — hiện cảnh báo bảo mật khẩn cấp.</li>
+            <li><strong>Error Case (Agent Busy):</strong> Gõ <em>"chứng khoán là gì?"</em> → nhấn <strong>[Kết nối hỗ trợ viên]</strong> → hiện thông báo <em>"Tổng đài viên đang bận"</em> với 2 lựa chọn. Nhấn lần 2 sẽ kết nối thành công.</li>
+            <li><strong>Khóa thẻ + Face ID:</strong> Gõ <em>"Tôi cần khóa thẻ"</em> (ngay với Bot hoặc qua Agent) → xác nhận thông tin → gõ <em>"Đồng ý"</em> → <strong>quét Face ID</strong> → thông báo khóa thẻ thành công.</li>
+            <li><strong>Gợi ý nhanh:</strong> Click các chip gợi ý FAQ ở dưới cùng.</li>
+        </ul>
+    </div>
+
+    <!-- Settings Modal Overlay -->
+    <div class="settings-modal" id="settingsModal" style="display:none;">
+        <div class="settings-modal-content">
+            <div class="settings-modal-header">
+                <h3><i class="fa-solid fa-gear"></i> Cấu hình API LLM</h3>
+                <span class="close-settings" id="closeSettingsBtn">&times;</span>
+            </div>
+            <div class="settings-modal-body">
+                <p class="settings-desc">Nhập API Key (OpenAI hoặc Mistral AI) để kích hoạt chatbot thông minh sử dụng mô hình ReAct Agent. API Key của bạn được lưu an toàn trong trình duyệt (localStorage).</p>
+                
+                <div class="settings-group">
+                    <label for="apiKeyInput">API Key (OpenAI / Mistral):</label>
+                    <div class="password-input-wrapper">
+                        <input type="password" id="apiKeyInput" placeholder="sk-proj-... hoặc Mistral Key" />
+                        <i class="fa-regular fa-eye-slash toggle-api-key-eye" id="toggleApiKeyVisibility"></i>
+                    </div>
+                </div>
+
+                <div class="settings-group">
+                    <label for="modelSelect">Mô hình AI:</label>
+                    <select id="modelSelect">
+                        <option value="gpt-4o-mini">gpt-4o-mini (OpenAI - Khuyên dùng)</option>
+                        <option value="gpt-4o">gpt-4o (OpenAI - Thông minh)</option>
+                        <option value="mistral-large-latest" selected>mistral-large-latest (Mistral AI)</option>
+                        <option value="mistral-small-latest">mistral-small-latest (Mistral AI)</option>
+                        <option value="open-mistral-7b">open-mistral-7b (Mistral AI)</option>
+                    </select>
+                </div>
+                
+                <div class="settings-actions">
+                    <button class="settings-save-btn" id="saveSettingsBtn">Lưu Cấu Hình</button>
+                    <button class="settings-clear-btn" id="clearSettingsBtn">Xóa Key</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Application Script Link -->
+    <script src="config.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,1616 @@
+[
+  {
+    "question": "Những giao dịch nào của tôi cần xác thực bằng sinh trắc học?",
+    "answer": "Từ ngày 01/07/2024 theo Quyết định 2345/NHNN của Ngân hàng nhà nước, các giao dịch vượt hạn mức phải xác thực sinh trắc học bằng khuôn mặt  khi thực hiện giao dịch trên Techcombank Mobile hoặc Techcombank Online Banking, cụ thể:\n\nChuyển tiền trên 10 triệu đồng/giao dịch, cộng dồn trên 20 triệu đồng/ngày.\nGiao dịch thanh toán trên 100 triệu đồng/giao dịch hoặc cộng dồn trên 100 triệu đồng/ngày.\nCác giao dịch quốc tế, hoặc mua bán ngoại tệ.\nGiao dịch tài chính đầu tiên trên thiết bị mới, lần đầu đăng nhập, hoặc khi thay đổi thiết bị cài đặt Techcombank Mobile.\nGiao dịch chuyển khoản theo lô và giao dịch thanh toán trên eTax Mobile\n\n \n\nTừ ngày 01/01/2025, theo thông tư 17/2024/TT-NHNN, khách hàng không thể thực hiện được giao dịch trên Techcombank Mobile, Techcombank Online Banking, giao dịch thẻ nếu chưa cập nhật sinh trắc học.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Thông tin sinh trắc học của tôi sẽ sử dụng vào mục đích gì tại Ngân hàng?",
+    "answer": "Bắt đầu từ ngày 01/07/2024, Techcombank sẽ áp dụng thêm bước xác thực bằng sinh trắc học cho các giao dịch của quý khách, nhằm đáp ứng tiêu chuẩn bảo mật của Ngân hàng Nhà nước (NHNN) đề ra cũng như bảo vệ tài sản của khách hàng khi thực hiện một số giao dịch trên kênh ngân hàng số. Nếu thông tin khớp thì giao dịch sẽ được thực hiện, nếu thông tin không khớp thì hệ thống sẽ yêu cầu Quý khách chụp lại và chưa thực hiện giao dịch tại thời điểm đó.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi vào đâu trên Techcombank Mobile để biết trạng thái cập nhật thông tin sinh trắc học của bản thân?",
+    "answer": "Để kiểm tra trạng thái thông tin sinh trắc học quý khách vui lòng thực hiện theo hướng dẫn sau trên Techcombank Mobile:\n\n Bước 1: Truy cập Techcombank Mobile, chọn biểu tượng trên cùng tay trái, chọn \"Cài đặt\", sau đó chọn \"Thông tin cá nhân\", \n Bước 2: Tại trường thông tin \"Thông tin sinh trắc học\" có trạng thái là \"Đã bổ sung\" thì quý khách đã cập nhật thông tin sinh trắc học thành công, còn nếu màn hình hiển thị thông báo với nội dung \"Bổ sung thông tin sinh trắc học để hoàn thiện bảo mật tài khoản\", quý khách chưa hoàn tất đăng ký và cần bổ sung thông tin sinh trắc học",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Làm thế nào để tôi biết thiết bị của mình có hỗ trợ đọc thông tin CCCD gắn chip?",
+    "answer": "Khi thao tác theo hướng dẫn trên Techcombank Mobile để bổ sung thông tin sinh trắc học, tại màn hình giới thiệu, quý khách bấm vào \"Bổ sung ngay\" hệ thống sẽ tự động nhận diện thiết bị di động của quý khách có đủ điều kiện đọc chip trên CCCD (NFC).\n\n \n\nNếu xuất hiện màn hình thông báo \"Vui lòng ghé chi nhánh để bổ sung thông tin\" thể hiện thiết bị di động của quý khách không hỗ trợ công nghệ này.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi sử dụng CMND cũ để mở tài khoản, giờ bổ sung thông tin sinh trắc học trên CCCD gắn chip thì tôi có phải ra ngân hàng cập nhật lại thông tin không?",
+    "answer": "Để đảm bảo trải nghiệm liền mạch khi thực hiện bổ sung thông tin sinh trắc học bằng CCCD gắn chip, Techcombank hỗ trợ thêm cập nhật thông tin CCCD trên hệ thống khi Quý khách hoàn tất việc bổ sung thông tin sinh trắc học. Quý khách có thể cập nhật thông tin CCCD khi bổ sung thông tin sinh trắc học trên ứng dụng Techcombank Mobile (áp dụng với thiết bị hỗ trợ đọc thông tin chip NFC) hoặc tại các chi nhánh của Techcombank.\n\n \n\nĐối với khách hàng đang có CMT/CCCD cũ sẽ được hỗ trợ cập nhật sinh trắc học tại Quầy giao dịch của Techcombank",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Sau 01/07/2024, tôi phải cập nhật sinh trắc học thì mới giao dịch được?",
+    "answer": "Sau 01/07/2024, những giao dịch trực tuyến nằm trong quy định của NHNN và Techcombank sẽ yêu cầu xác thực bằng sinh trắc học. Còn các giao dịch trực tuyến không nằm trong quy định NHNN và Techcombank sẽ vẫn được thực hiện giao dịch như bình thường.\n \nTừ ngày 01/01/2025, theo thông tư 17/2024/TT-NHNN, khách hàng không thể thực hiện được giao dịch trên Techcombank Mobile, Techcombank Online Banking, giao dịch thẻ nếu chưa cập nhật sinh trắc học.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Điện thoại của tôi không có faceID thì có cập nhật được không?",
+    "answer": "Cập nhật sinh trắc học được thực hiện bằng cách chụp ảnh bằng máy ảnh phía trước của điện thoại, vì vậy trong trường hợp thiết bị của Quý khách không có FaceID sẽ không bị ảnh hưởng.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể nhờ người thân mang hộ chứng minh thư đi làm hộ được không? Và thực hiện qua hình thức nào?",
+    "answer": "Hiện tại Techcombank chỉ có 2 kênh để thực hiện cập nhật sinh trắc học: \n1. Techcombank Mobile\n2. Quầy giao dịch của Techcombank \nQuý khách cần sử dụng  giấy tờ tuỳ thân của chính mình và chính mình thực hiện cập nhật thông tin sinh trắc học.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi mở tài khoản bằng hình thức NFC đã thu thập thông tin từ chip của CCCD sao giờ lại bắt thu thập lại?",
+    "answer": "Kể từ ngày 31/03/2024, những khách hàng mở tài khoản qua hình thức NFC từ CCCD gắn chip sẽ không cần thu thập lại thông tin sinh trắc học",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể cập nhật sinh trắc học sau 01/07/2024 được không? Và tôi có thể cập nhật qua hình thức nào?",
+    "answer": "Sau 01/07/2024, khách hàng vẫn có thể cập nhật sinh trắc học qua Techcombank Mobile hoặc mang theo thẻ CCCD gắn chip tới các chi nhánh/phòng giao dịch của Techcombank, các chuyên viên sẽ hỗ trợ cập nhật.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi dùng thẻ của Techcombank để rút tiền trên ATM của ngân hàng khác nhưng đã bị nuốt thẻ. Vậy, tôi phải liên lạc với ngân hàng nào để lấy lại thẻ?",
+    "answer": "Quý khách có thể gọi số Hotline: 1800588822 hoặc đến bất kỳ điểm giao dịch nào của Techcombank để được hướng dẫn hỗ trợ",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi đang ở nước ngoài, thẻ không giao dịch được, tôi phải làm gì?",
+    "answer": "Có nhiều lý do khiến thẻ của Quý khách hàng không giao dịch được. Quý khách vui lòng liên hệ Hotline của Techcombank 24/7- số điện thoại ở mặt sau của thẻ để được hỗ trợ kiểm tra tình trạng thẻ",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Khi giao dịch rút tiền, tôi nhận được tiền bị rách,nhàu nát hoặc mất góc, tôi phải làm gì?",
+    "answer": "Quý khách có thể tới bất cứ chi nhánh/phòng giao dịch của Techcombank để đổi tiền. Giao dịch này sẽ ko bị mất phí.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Khi giao dịch tại siêu thị, do hết giấy in hóa đơn, nhân viên đã quẹt thẻ của tôi hai lần, tài khoản báo bị trừ tiền 2 lần, tôi phải làm gì?",
+    "answer": "Quý khách cần thực hiện 2 bước sau:\n1. Ký tên trên 1 hóa đơn thanh toán (liên dành cho đơn vị)\n2. Đồng thời gọi số Hotline ở mặt sau thẻ để được hỗ trợ tra soát",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Nhận biết số tài khoản?",
+    "answer": "Quý khách có thể thực hiện một trong các cách sau:\n1. Đưa thẻ vào máy ATM Techombank bất kỳ để có thông tin; hoặc\n2. Gọi đến Hotline của Techcombank theo số 1800 588 822 bằng số điện thoại đã đăng ký với ngân hàng; hoặc\n3. Tra cứu qua dịch vụ F@st i-bank, F@st Mobile",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi muốn phát hành thẻ của Techcombank với đuôi thẻ, hoặc số tài khoản là số đẹp chọn có được không?",
+    "answer": "Tại thời điểm hiện tại, hệ thống cá thể hóa thẻ là bảo mật, không thể can thiệp nên không thể chọn theo yêu cầu của Quý khách được. Tuy nhiên có thể chọn ID khách hàng với số đẹp và mất phí theo quy định từng thời kỳ của Ngân hàng.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Để có thể sử dụng thẻ thanh toán/thẻ tín dụng quốc tế Techcombank Visa, tôi có bắt buộc phải đổi PIN lần đầu tại ATM không?",
+    "answer": "Quý khách có thể sử dụng chính PIN do Techcombank cấp hoặc có thể đổi sang PIN khác (tại ATM Techcombank) để sử dụng thẻ.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi đã quên PIN thẻ, tôi phải làm gì?",
+    "answer": "Quý khách có thể đến bất kỳ điểm giao dịch của Techcombank để đề nghị cấp lại PIN hoặc gửi yêu cầu cấp lại PIN qua dịch vụ F@st i-bank. Phí cấp lại PIN được Techcombank quy định theo từng thời kỳ. Biểu phí cấp lại pin dành cho thẻ Thanh toán/thẻ tín dụng tại đây",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi không còn nhớ PIN thẻ của mình, tôi có thể gọi lên Hotline để mở PIN được không?",
+    "answer": "Trong trường hợp này, Quý khách cần đăng ký qua F@st i-bank hoặc chi nhánh/phòng giao dịch để yêu cầu cấp PIN mới. Quý khách chỉ gọi lên Hotline trong trường hợp thẻ bị khóa do nhập sai PIN và vẫn nhớ PIN của mình.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "CVV2 là gì?",
+    "answer": "CVV là viết tắt của Card Verification Value. CVV2 là mã số nhằm xác thực chủ thẻ khi thực hiện các giao dịch thanh toán bằng thẻ trên Internet",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Thẻ Visa của tôi khi thanh toán Internet thì phát hiện ra số CVV2 ở mặt sau thẻ chỉ có 2 số/bị mờ không đọc được, dẫn tới tôi không thể thanh toán được, tôi có thể xin cấp lại hoặc được hỗ trợ gì không?",
+    "answer": "Trong trường hợp thời điểm khiếu nại chưa quá 6 tháng kể từ khi thẻ phát hành, Techcombank sẽ thu hồi thẻ và xem xét hỗ trợ phát hành lại miễn phí. Trường hợp quá 6 tháng, Quý khách vui lòng tới chi nhánh/phòng giao dịch của Techcombank để phát hành lại thẻ mới theo quy định.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Giao dịch MOTO là gì?",
+    "answer": "Giao dịch MOTO (Mail Order/Phone Order): là giao dịch mà chủ thẻ sử dụng thông tin thẻ đặt mua hàng hóa, dịch vụ từ Đơn vị chấp nhận thẻ (ĐVCNT) qua điện thoại hoặc email hoặc các phương tiện truyền thông khác. Trong đó, thẻ và/hoặc chủ thẻ không phải hiện diện trực tiếp tại ĐVCNT.a",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Thẻ của tôi mới phát hành nhưng không sử dụng được, tôi có được ngân hàng hỗ trợ gì không?",
+    "answer": "Tùy thuộc vào thời điểm phát hành thẻ và nguyên nhân dẫn tới thẻ không sử dụng được. Nếu nguyên nhân lỗi không thuộc về khách hàng, Techcombank sau khi tiếp nhận khiếu nại sẽ xem xét hỗ trợ để Quý khách có thể tiếp tục sử dụng dịch vụ thẻ của Techcombank.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Thẻ của tôi bị gẫy hỏng, không sử dụng được nữa, tôi phải làm gì?",
+    "answer": "Quý khách có thể đến bất kỳ điểm giao dịch nào của Techcombank để yêu cầu phát hành lại thẻ",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi giao dịch thẻ qua Internet nhưng không có mật khẩu OTP (One-time password)?",
+    "answer": "Quý khách chỉ sử dụng được mật khẩu OTP tại các website có tích hợp dịch vụ 3D Secure Verified by Visa",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi muốn nâng hạn mức chuyển khoản qua dịch vụ ngân hàng điện tử, tôi có thể đăng ký qua kênh này được không? Có bị mất phí cho yêu cầu này không?",
+    "answer": "KH có thể tới bất kỳ CN/PGD của Techcombank để được hỗ trợ đăng ký thay đổi hạn mức giao dịch hoặc sử dụng dịch vụ đăng ký thay đổi Hạn mức giao dịch trực tuyến trên ứng dụng F@st Mobile (lên đến 3 tỷ VND)\nYêu cầu của KH được hỗ trợ hoàn toàn miễn phí\n(Lưu ý: đăng ký hạn mức trên F@st Mobile chỉ có tác dụng trên F@st Mobile, ko có tác dụng trên F@st ibank)",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Với yêu cầu nâng hạn mức sử dụng thẻ tạm thời tôi có bị mất phí không?",
+    "answer": "Trong trường hợp này, Quý khách không bị mất phí.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Khi thanh toán thẻ bằng USD, tôi phải chịu phí gì?",
+    "answer": "- Thẻ ghi nợ: phí quản lý chuyển đổi chi tiêu ngoại tệ và phí xử lý giao dịch\n- Thẻ tín dụng: phí giao dịch ngoại tệ\nCác loại phí và mức phí được Techcombank quy định từng thời kỳ xem chi tiết tại đây",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Chương trình Zero-fee của Techcombank áp dụng như thế nào?",
+    "answer": "Áp dụng cho toàn bộ khách hàng sử dụng dịch vụ ngân hàng điện tử của Techcombank: miễn toàn bộ phí chuyển khoản (bao gồm cả chuyển khoản liên ngân hàng, chuyển khoản nhanh 24/7 và chuyển tiền trong hệ thống Techcombank), miễn phí toàn bộ giao dịch thanh toán, miễn phí đăng ký và phí duy trì dịch vụ.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể thực hiện yêu cầu trợ giúp thẻ qua kênh nào?",
+    "answer": "Các yêu cầu trợ giúp như: khóa/mở khóa thẻ, đăng ký/hủy tính năng thanh toán thẻ qua Internet, đăng ký/hủy trích nợ tự động ..., Quý khách có thể thực hiện qua các kênh sau:\n- Chi nhánh/phòng giao dịch bất kỳ của Techcombank\n- F@st i-bank\n- Dịch vụ Khách hàng Techcombank qua số hotline: 1800588822 (nếu đang ở Việt Nam) hoặc (84-24) 39449626 (nếu đang ở nước ngoài)\n- Máy ATM của Techcombank\nVới yêu cầu trợ giúp phát hành lại thẻ hoặc nâng hạn mức thẻ tín dụng : Quý khách vui lòng đến bất kỳ điểm giao dịch của Techcombank để yêu cầu",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể thực hiện yêu cầu trợ giúp thẻ nào qua Hotline Dịch vụ Khách hàng của Techcombank?",
+    "answer": "Quý khách có thể thực hiện các yêu cầu sau qua tổng đài DVKH Techcombank: khóa thẻ tạm thời, khóa thẻ vĩnh viễn, khóa tính năng thanh toán qua internet, resset lại PIN (nếu KH còn nhớ PIN), tra soát khiếu nại và thu hồi thẻ nuốt",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể thực hiện yêu cầu trợ giúp thẻ nào qua ATM của Techcombank",
+    "answer": "Quý khách có thể thực hiện yêu cầu đăng ký/hủy đăng ký tính năng thanh toán qua Internet",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Đăng ký Dịch vụ Ngân hàng trực tuyến E-Banking",
+    "answer": "Khách hàng có thể đăng ký trực tuyến tài khoản E-Banking bằng cách sử dụng thông tin thẻ do Techcombank phát hành (bao gồm Thẻ thanh toán & Thẻ tín dụng đang hoạt động) tại đây. Việc đăng ký hoàn toàn miễn phí và tài khoản ngân hàng điện tử sẽ được sử dụng ngay lập tức.\nNgoài ra, khách hàng có thể đăng ký tại bất kỳ CN/PGD của Techcombank.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Quên Tên Đăng Nhập hoặc Mật Khẩu Ngân hàng trực tuyến E-Banking",
+    "answer": "Quý khách có thể đăng ký khôi phục mật khẩu tại CN/PGD Techcombank hoặc thực hiện khôi phục mật khẩu trực tuyến tại đây",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi nhận được tin nhắn ưu đãi giảm giá từ Techcombank khi mua sắm tại Vascara và một vài thương hiệu khác lên đến 10% tại các cửa hàng trên toàn quốc, tôi phải làm gì để sử dụng?",
+    "answer": "Quý khách có thể đến bất kỳ cửa hàng nào của Vascara hoặc các thương hiệu khác mà Quý khách nhận được thông tin ưu đãi từ Techcombank trên toàn quốc, chọn lựa sản phẩm muốn mua và thực hiện thanh toán bằng thẻ Techcombank. Khi thực hiện thanh toán, yêu cầu thu ngân áp dụng ưu đãi dành riêng cho chủ thẻ Techcombank, Quý khách sẽ được giảm giá trực tiếp trên tổng hóa đơn",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi muốn tìm hiểu các thông tin ưu đãi dành cho chủ thẻ thì phải tìm kiếm thông tin này ở đâu?",
+    "answer": "Quý khách có thể lên Website chính thức của Techcombank https://www.techcombank.com.vn để tìm hiểu thêm các thông tin ưu đãi dành riêng cho chủ thẻ Techcombank hoặc tra cứu thông tin tại hộp email cá nhân của Quý khách với các email Bản tin ưu đãi được gửi từ Techcombank",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi có nhận được email thông báo ưu đãi khi mua hàng tại một thương hiệu mỹ phẩm với code 'Techcombank', tôi phải thực hiện thế nào?",
+    "answer": "Quý khách truy cập trang web chính thức của thương hiệu mỹ phẩm đó để thực hiện mua và thanh toán, đến bước nhập mã ưu đãi, nhập mã TECHCOBANK để được giảm giá trực tiếp cho đơn hàng của mình.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi được biết thông tin ưu đãi lên đến 20% của Techcombank khi mua vé Máy bay tại AirAsia, hình thức ưu đãi này là thế nào?",
+    "answer": "Quý khách truy cập website chính thức của Air Asia, lựa chọn hành trình và thực hiện thanh toán. Tại bước thanh toán, Quý khách chỉ cần nhập thông tin thẻ để thanh toán, nếu thông tin ưu đãi Quý khách nhận được yêu cầu nhập Mã Code để áp dụng ưu đãi thì Quý khách nhập mã code. Nếu không đề cập mã code, ưu đãi sẽ được áp dụng thông qua thông tin thẻ của Techcombank, sau khi Quý khách nhập thông tin thẻ, giá sẽ được cập nhật mức giá ưu đãi đã giảm và Quý khách kết thúc giao dịch mua hàng",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Khi bị mất thẻ, tôi cần làm gì?",
+    "answer": "Khi bị mất thẻ, Quý khách cần liên hệ ngay với Techcombank để thực hiện khóa thẻ bằng các cách sau:\n- Thực hiện khóa thẻ online qua dịch vụ F@st i Banking/F@st Mobile của Techcombank\n- Gọi điện đến số hotline của Techcombank: 1800588822/1800588823 (miễn phí) (nếu đang ở Việt Nam) hoặc +84-24-3944 9626 (nếu đang ở nước ngoài) để được hỗ trợ khóa thẻ\n- Email đến hòm mail Dịch vụ Khách hàng 24/7 của Techcombank: call_center@techcombank.com.vn hoặc đến bất kỳ điểm giao dịch nào của Techcombank\nSau đó, Quý khách có thể đề nghị phát hành lại thẻ mới tại bất kỳ điểm giao dịch nào của Techcombank.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi phải làm gì khi rút tiền tại ATM mà tiền không ra nhưng tài khoản đã bị trừ tiền?",
+    "answer": "Quý khách hàng vui lòng liên hệ với Techcombank để được trợ giúp theo một trong các cách sau:\n- Liên hệ với Dịch vụ khách hàng 24/7 của Techcombank theo số: 1800 588 822/1800 588 823 (nếu gọi trong lãnh thổ Việt Nam) hoặc +84 24 3944 9626 (nếu gọi từ nước ngoài), email: call_center@techcombank.com.vn\n- Đến bất kỳ điểm giao dịch nào của Techcombank\n- Thực hiện yêu cầu tra soát qua dịch vụ F@st i-Bank",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi phải làm gì khi chỉ thực hiện giao dịch 1 lần nhưng tài khoản bị trừ tiền 2 lần?",
+    "answer": "Quý khách hàng vui lòng liên hệ với Techcombank để được trợ giúp theo một trong các cách sau:\n- Liên hệ với Dịch vụ khách hàng 24/7 của Techcombank theo số: 1800 588 822/1800 588 823 (nếu gọi trong lãnh thổ Việt Nam) hoặc +84 24 3944 9626 (nếu gọi từ nước ngoài), email: call_center@techcombank.com.vn\n- Đến bất kỳ điểm giao dịch nào của Techcombank\n- Thực hiện yêu cầu tra soát qua dịch vụ F@st i-Bank",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Thẻ tín dụng quốc tế Techcombank Spark có mấy hạng và hạn mức tín dụng của mỗi hạng là bao nhiêu?",
+    "answer": "Thẻ tín dụng quốc tế Techcombank Spark là thẻ thuộc hạng Platinum của MasterCard, hạn mức tín dụng từ 50 triệu VNĐ trở lên.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi muốn đăng ký phát hành thẻ tín dụng quốc tế Techcombank Spark nhưng không có đủ giấy tờ chứng minh thu nhập. Vậy tôi nên làm gì?",
+    "answer": "Nếu Quý khách hàng đang là Khách hàng hiện hữu của VinID và thỏa mãn điều kiện phát hành thẻ tín dụng quốc tế Techcombank Spark, chúng tôi sẽ chủ động liên hệ hoặc có thông báo qua ứng dụng trên điện thoại thông minh của Quý khách.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi đã có thẻ tín dụng quốc tế Techcombank Visa, vậy tôi có thể phát hành thêm thẻ tín dụng quốc tế Techcombank MasterCard không?",
+    "answer": "Có. Quý khách hàng có thể duy trì cùng lúc 2 loại thẻ tín dụng. Tuy nhiên, tổng hạn mức tín dụng cả hai thẻ tín dụng của Quý khách hàng tại cùng một thời điểm không được vượt quá hạn mức tín dụng tối đa được Techcombank cấp cho Quý khách hàng.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Chủ thẻ phụ thẻ tín dụng quốc tế Techcombank Spark được cấp hạn mức tín dụng như thế nào?",
+    "answer": "Được sử dụng chung hạn mức với chủ thẻ chính, hạn mức cụ thể do chủ thẻ chính yêu cầu nhưng không vượt quá hạn mức tín dụng ngân hàng đã cấp cho chủ thẻ chính",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi muốn phát hành thẻ phụ thẻ tín dụng quốc tế Techcombank Spark cho con tôi. Vậy, con tôi có cần phải chứng minh thu nhập không?",
+    "answer": "Theo qui định của Techcombank, chủ thẻ phụ không cần phải chứng minh thu nhập",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Ngày sao kê là gì? Làm sao để biết ngày sao kê của thẻ tín dụng?",
+    "answer": "Ngày sao kê là ngày Techcombank lập Sao kê liệt kê chi tiết các giao dịch phát sinh trong Kỳ sao kê liên quan đến việc phát hành và sử dụng thẻ tín dụng của Quý khách hàng (bao gồm thẻ chính và thẻ phụ). Ngày sao kê được thể hiện trên sao kê gửi cho Quý khách hàng.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể kích hoạt thẻ tín dụng Techcombank Spark bằng những cách nào?",
+    "answer": "Có 2 hình thức kích hoạt thẻ tín dụng:\nQuý khách hàng soạn tin nhắn theo cú pháp:\nTCBKHT <6 số đầu 4 số cuối của thẻ> <số CMND/Hộ chiếu/CCCD> gửi đến 8049.\nVí dụ: TCBKHT 4220751234 0123456789\nHOẶC Quý khách truy cập ứng dụng F@st Mobile của Techcombank, mục Thẻ để kích hoạt Thẻ.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Để có thể sử dụng thẻ tín dụng quốc tế Techcombank Spark, tôi có bắt buộc phải đổi PIN lần đầu tại ATM không?",
+    "answer": "Không. Quý khách có thể sử dụng thẻ ngay mà không cần đổi PIN lần đầu tại ATM.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể đổi ngày sao kê khác không?",
+    "answer": "Techcombank quy định ngày sao kê với mỗi loại thẻ tín dụng cụ thể. Nếu muốn sử dụng thẻ với ngày sao kê khác ngày hiện tại, Quý khách cần làm yêu thay đổi loại thẻ/hạng thẻ phù hợp với ngày sao kê đó. Trong một số trường hợp, Quý khách cần hủy và tất toán hết dư nợ của thẻ cũ.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Làm thế nào để có thể thanh toán dư nợ của thẻ tín dụng?",
+    "answer": "Quý khách hàng có thể thanh toán dư nợ của thẻ tín dụng bằng một trong các cách sau:\nGhi nợ tự động: Quý khách hàng đăng ký dịch vụ ghi nợ tự động tại bất kỳ điểm giao dịch nào của Techcombank hoặc qua dịch vụ F@st i-Bank (Internet Banking). Quý khách hàng có thể đăng ký thanh toán giá trị tối thiểu hoặc thanh toán toàn bộ dư nợ sao kê của thẻ tín dụng.\n\nThanh toán qua dịch vụ F@st i-Bank hoặc F@st Mobile hoặc ATM: Quý khách hàng thực hiện chuyển khoản/thanh toán dư nợ thẻ tín dụng online từ tài khoản thanh toán của Quý khách hàng mở tại Techcombank sang tài khoản thẻ tín dụng.\n\nNộp tiền mặt hoặc chuyển khoản tại quầy giao dịch của Techcombank: Quý khách hàng có thể đến bất kỳ điểm giao dịch nào của Techcombank để thực hiện thanh toán dư nợ thẻ tín dụng bằng cách nộp tiền mặt hoặc chuyển khoản từ tài khoản thanh toán mở tại Techcombank vào tài khoản thẻ tín dụng.\n\nChuyển khoản từ ngân hàng khác: Quý khách hàng chuyển khoản từ ngân hàng khác với các thông tin: họ tên của Quý khách hàng, số tài khoản thẻ tín dụng của Quý khách hàng (được thể hiện rõ trên Sao kê định kỳ).",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Khi sử dụng thẻ tín dụng quốc tế Techcombank Spark để rút tiền mặt tại ATM của ngân hàng khác, tôi có phải trả phí không? Mức phí là bao nhiêu?",
+    "answer": "Với giao dịch rút tiền bằng thẻ tín dụng quốc tế Techcombank Spark tại ATM của ngân hàng khác, Techcombank sẽ thu mức phí là 4% giá trị giao dịch và tối thiểu là 100.000 đồng (đã bao gồm 10%VAT). Ngoài ra, Quý khách hàng có thể chịu thêm một mức phí do ngân hàng chủ quản ATM thu, mức phí này là khác nhau tùy theo quy định của từng ngân hàng.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi thực hiện thanh toán bằng thẻ tín dụng quốc tế Techcombank Spark và trả cho cửa hàng bằng USD thì tôi có phải trả phí không?",
+    "answer": "Khi sử dụng thẻ tín dụng Techcombank Spark để thanh toán các hóa đơn bằng ngoại tệ, Techcombank sẽ thu phí quản lý chi tiêu ngoại tệ của Quý khách hàng với mức phí theo quy định của Techcombank trong từng thời kỳ. Vui lòng xem biểu phí tại đây.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi chuyển khoản thanh toán thẻ tín dụng lúc 22h tại ngày đến hạn thì có bị tính phí chậm thanh toán không?",
+    "answer": "Có. Việc thanh toán nợ của Quý khách hàng chỉ được tính là thành công khi hệ thống của Techcombank ghi nhận được giao dịch của Quý khách hàng (Techcombank nhận được báo có với số tiền thực báo có). Số tiền thanh toán nhận được sau giờ làm việc của Techcombank sẽ được tính sang ngày làm việc kế tiếp",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi đăng ký trích nợ giá trị tối thiểu, vào ngày đến hạn thanh toán tôi đã trả nhiều hơn mức tối thiểu thì hệ thống có trích nợ tiếp không?",
+    "answer": "Trong trường hợp này hệ thống không trích nợ tiếp. Nếu muốn thanh toán toàn bộ dư nợ sao kê, Quý khách hàng nộp/chuyển tiền vào tài khoản thẻ tín dụng để thanh toán.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Ngày sao kê của tôi là Chủ nhật ngày 10/12 thì được chuyển sang ngày nào?",
+    "answer": "Nếu ngày sao kê trùng với ngày thứ 7, chủ nhật hoặc ngày lễ thì Ngày sao kê sẽ được chuyển lên trước đó 02 ngày làm việc.Cụ thể, ngày sao kê được chuyển sang Thứ 6 ngày 08/12.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Khi truy cập sao kê điện tử e-statement, tôi cần nhập thông tin gì?",
+    "answer": "Quý khách hàng cần nhập 4 số cuối của thẻ và nhập mã bảo mật ngẫu nhiên do hệ thống cung cấp tự động",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Thẻ tín dụng quốc tế Vietnam Airlines Techcombank Visa có mấy hạng và hạn mức tín dụng của mỗi hạng là bao nhiêu?",
+    "answer": "Thẻ tín dụng quốc tế Vietnam Airlines Techcombank Visa gồm 3 hạng:\n- Hạng Chuẩn: hạn mức tín dụng từ 10 triệu đến dưới 50 triệu đồng\n- Hạng Vàng: hạn mức tín dụng từ 50 triệu đồng trở lên\n- Hạng Platinum: hạn mức tín dụng từ 90 triệu đồng trở lên",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi muốn đăng ký phát hành thẻ tín dụng quốc tế Vietnam Airlines Techcombank Visa nhưng không có đủ giấy tờ chứng minh thu nhập. Vậy tôi nên làm gì?",
+    "answer": "Nếu Quý khách hàng thuộc diện phê duyệt trước theo quy định của Ngân hàng, chúng tôi sẽ chủ động liên hệ hoặc có thông báo qua ứng dụng trên điện thoại thông minh của Quý khách\nNếu Quý khách hàng không thuộc diện phê duyệt trước, không có đủ giấy tờ chứng minh thu nhập thì Quý khách hàng nên đăng ký phát hành thẻ theo hình thức cầm cố sổ tiết kiệm.\nNếu Quý khách hàng có thẻ Bông Sen Vàng hạng Titan trở lên và còn hạn tối thiểu là 2 tháng  thì Quý khách không phải nộp giấy tờ chứng minh thu nhập.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Nếu tôi phát hành thẻ tín dụng quốc tế Vietnam Airlines Techcombank Visa theo hình thức có tài sản bảo đảm thì những loại tài sản nào có thể sử dụng để bảo đảm?",
+    "answer": "Techcombank chỉ áp dụng cầm cố sổ tiết kiệm được mở tại Techcombank để làm tài sản đảm bảo cho việc phát hành thẻ tín dụng theo hình thức có tài sản bảo đảm.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi đã có thẻ tín dụng quốc tế Techcombank Visa. Vậy tôi có thể phát hành thêm thẻ tín dụng quốc tế Vietnam Airlines Techcombank Visa không?",
+    "answer": "Có. Quý khách có thể duy trì cùng lúc 2 loại thẻ tín dụng. Tuy nhiên, tổng hạn mức tín dụng cả hai thẻ tín dụng của Quý khách tại cùng một thời điểm không được vượt quá hạn mức tín dụng tối đa được cấp cho Quý khách tại Techcombank.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi muốn phát hành thẻ phụ Vietnam Airlines Techcombank Visa cho người thân sử dụng. Vậy, người thân của tôi có cần là hội viên Bông Sen Vàng không?",
+    "answer": "Theo quy định hiện tại của Techcombank, chủ thẻ phụ không cần phải là hội viên Bông Sen Vàng",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi muốn phát hành thẻ tín dụng quốc tế Techcombank Visa phụ cho con tôi. Vậy, con tôi có cần phải chứng minh thu nhập không?",
+    "answer": "Theo qui định của Techcombank, chủ thẻ phụ không cần phải chứng minh thu nhập",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Chủ thẻ phụ thẻ tín dụng quốc tế Vietnam Airlines Techcombank Visa được cấp hạn mức tín dụng như thế nào?",
+    "answer": "Được sử dụng chung hạn mức với chủ thẻ chính, hạn mức cụ thể do chủ thẻ chính yêu cầu nhưng không vượt quá hạn mức tín dụng ngân hàng đã cấp cho chủ thẻ chính",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Cú pháp nhắn tin kích hoạt thẻ khi đăng ký hình thức kích hoạt thẻ qua SMS",
+    "answer": "Quý khách hàng soạn tin nhắn theo cú pháp:\nTCBKHT <6 số đầu 4 số cuối của thẻ> <số CMND/Hộ chiếu/CCCD> gửi đến 8049.\nVí dụ: TCBKHT 4220751234 0123456789.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Để có thể sử dụng thẻ tín dụng quốc tế Vietnam Airlines Techcombank Visa, tôi có bắt buộc phải đổi PIN lần đầu tại ATM không?",
+    "answer": "Không. Quý khách có thể sử dụng thẻ ngay mà không cần đổi PIN lần đầu tại ATM.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Khi sử dụng thẻ tín dụng Vietnam Airlines Techcombank Visa để rút tiền mặt tôi có được cộng dặm vào tài khoản Bông Sen Vàng không?",
+    "answer": "Quý khách hàng chỉ được cộng điểm vào tài khoản Bông Sen Vàng khi sử dụng thẻ tín dụng quốc tế Vietnam Airlines Techcombank Visa để thanh toán các hóa đơn mua hàng hóa, dịch vụ.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Khi sử dụng thẻ tín dụng quốc tế Vietnam Airlines Techcombank Visa để rút tiền mặt tại ATM của ngân hàng khác, tôi có phải trả phí không? Mức phí là bao nhiêu?",
+    "answer": "Với giao dịch rút tiền bằng thẻ tín dụng quốc tế Techcombank Visa tại ATM của ngân hàng khác, Techcombank sẽ thu mức phí là 4% giá trị giao dịch và tối thiểu là 100.000 đồng (đã bao gồm 10%VAT). Ngoài ra, Quý khách có thể chịu thêm một mức phí do ngân hàng chủ quản ATM thu, mức phí này là khác nhau tùy theo quy định của từng ngân hàng.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi thực hiện thanh toán bằng thẻ tín dụng quốc tế Vietnam Airlines Techcombank Visa và trả cho cửa hàng bằng USD thì tôi có phải trả phí không?",
+    "answer": "Khi sử dụng thẻ tín dụng Techcombank Visa để thanh toán các hóa đơn bằng ngoại tệ, Techcombank sẽ thu phí quản lý chi tiêu ngoại tệ của Quý khách với mức phí theo quy định của Techcombank trong từng thời kỳ. Vui lòng xem biểu phí tại đây.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể đề nghị ngân hàng nâng hạn mức tín dụng thẻ tín dụng quốc tế Vietnam Airlines Techcombank Visa của tôi không?",
+    "answer": "Quý khách hàng vui lòng đến chi nhánh để yêu cầu nâng hạn mức tín dụng thẻ và cung cấp các giấy tờ chứng minh thu nhập/ sổ tiết kiệm. Techcombank sẽ xem xét và giải quyết nếu yêu cầu của Quý khách hàng là hợp lệ.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Ngày sao kê của tôi là Chủ nhật ngày 28/12 thì được chuyển sang ngày nào?",
+    "answer": "Nếu ngày sao kê trùng với ngày thứ 7, chủ nhật hoặc ngày lễ thì Ngày sao kê sẽ được chuyển lên trước đó 02 ngày làm việc.\nCụ thể, sao kê được chuyển sang Thứ 6 ngày 26/12.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Làm thế nào để tôi có thể thanh toán dư nợ của thẻ tín dụng?",
+    "answer": "Quý khách hàng có thể thanh toán dư nợ của thẻ tín dụng bằng một trong các cách sau:\n- Ghi nợ tự động: Quý khách hàng đăng ký dịch vụ ghi nợ tự động tại bất kỳ điểm giao dịch nào của Techcombank hoặc qua dịch vụ F@st i-Bank (Internet Banking). Quý khách hàng có thể đăng ký thanh toán giá trị tối thiểu hoặc thanh toán toàn bộ dư nợ sao kê của thẻ tín dụng.\n- Thanh toán qua dịch vụ F@st i-Bank hoặc F@st Mobile hoặc ATM: Quý khách hàng thực hiện chuyển khoản/thanh toán dư nợ thẻ tín dụng online từ tài khoản thanh toán của Quý khách hàng mở tại Techcombank sang tài khoản thẻ tín dụng.\n- Nộp tiền mặt hoặc chuyển khoản tại quầy giao dịch của Techcombank: Quý khách hàng có thể đến bất kỳ điểm giao dịch nào của Techcombank để thực hiện thanh toán dư nợ thẻ tín dụng bằng cách nộp tiền mặt hoặc chuyển khoản từ tài khoản thanh toán mở tại Techcombank vào tài khoản thẻ tín dụng.\n- Chuyển khoản từ ngân hàng khác: Quý khách hàng chuyển khoản từ ngân hàng khác với các thông tin: họ tên của Quý khách hàng, số tài khoản thẻ tín dụng của Quý khách hàng (được thể hiện rõ trên Sao kê định kỳ).",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Điều kiện để tôi có thể phát hành thẻ F@stAccess là gì?",
+    "answer": "Để phát hành thẻ thanh toán F@stAccess, Quý khách chỉ cần:\n1. Người từ đủ 15 tuổi trở lên\n2. Có tài khoản thanh toán tại Techcombank",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể sử dụng thẻ F@stAccess ở những ATM nào?",
+    "answer": "Bên cạnh máy ATM của Techcombank, Quý khách có thể sử dụng thẻ F@stAccess tại ATM của tất cả các ngân hàng trong liên minh thẻ Napas trên toàn quốc.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi có bắt buộc phải đổi PIN lần đầu trước khi sử dụng thẻ F@stAccess không?",
+    "answer": "Theo quy định của Techcombank, Quý khách cần phải đổi PIN lần đầu trước khi sử dụng thẻ F@stAccess.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "PIN thẻ F@stAccess của tôi có mấy số. Tôi có thể đổi mật khẩu mới với 5 số được không?",
+    "answer": "PIN thẻ F@stAccess bắt buộc bao gồm 6 số.\nQuý khách lưu ý không cung cấp mã PIN cho người khác, không lưu ra giấy. Tránh dùng số CMTND hay ngày sinh để làm mã số PIN.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể sử dụng thẻ F@stAccess để thực hiện cho các giao dịch thanh toán online không?",
+    "answer": "Có. Quý khách có thể dùng thẻ F@stAccess để thanh toán online trên những website có chấp nhận thẻ F@stAccess (chẳng hạn: website của Vietnam Airlines,…)",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể dùng thẻ F@stAccess để chuyển khoản sang tài khoản của tôi tại ngân hàng khác trên máy ATM không?",
+    "answer": "Quý khách chỉ có thể dùng thẻ F@stAccess để chuyển khoản sang tài khoản thụ hưởng khác trong cùng hệ thống trên máy ATM của Techcombank.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Thẻ F@stAccess của tôi có được tự động kích hoạt Internet không?",
+    "answer": "Thẻ thanh toán F@stAccess của Quý khách được tự động kích hoạt tính năng thanh toán qua mạng khi phát hành.\nNếu Quý khách không có nhu cầu sử dụng tính năng này thì cần đăng ký hủy với Ngân hàng ngay khi đăng ký phát hành thẻ.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Thẻ F@stAccess của tôi có thể thanh toán được tại những website nào, có an toàn không?",
+    "answer": "1. Thẻ của Quý khách có thể thanh toán trực tuyến tại những website nội địa (merchant country là Việt Nam) hoặc những website khác có cho phép phương thức thanh toán qua Napas\n2. Khi thanh toán trực tuyến với thẻ F@st Access, ngoài mã PIN cần nhập, Quý khách được bảo mật giao dịch bằng bước xác thực mật khẩu được tự động gửi đến Quý khách để hoàn thành giao dịch.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi nhập sai nhiều lần mật khẩu ngân hàng cung cấp khi thanh toán trực tuyến qua thẻ F@stAccess, tôi cần làm gì?",
+    "answer": "Quý khách vui lòng liên hệ DVKH 24/7 theo số: 1800588822/ 1800588823 (dành cho khách hàng priority) hoặc tới Chi nhánh gần nhất để được hỗ trợ.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Thẻ thanh toán của tôi đã hết hạn sử dụng nhưng tài khoản vẫn còn tiền. Vậy tôi có bị mất số tiền còn lại trong tài khoản không?",
+    "answer": "Số tiền còn lại trong tài khoản cũng như tài khoản phát hành thẻ của Quý khách vẫn được duy trì. Tuy nhiên, Quý khách nên phát hành thẻ F@stAccess khác thay thế thẻ đã hết hạn để thuận tiện cho việc sử dụng.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Khi bị mất thẻ, tôi làm thế nào để khóa thẻ được nhanh nhất?",
+    "answer": "Quý khách thực hiện ngay một trong các cách sau:\n1. Liên hệ DVKH  Techcombank 24/7 số 1800 588 822 hoặc (24) 3944 6699 (với thuê bao ở nước ngoài)\n2. Đăng nhập user/tài khoản F@st i-bank để lập yêu cầu khóa thẻ vĩnh viễn hoặc khóa thẻ tạm thời",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi có được mở lại thẻ thanh toán F@stAccess nếu trước đó tôi đã yêu cầu ngân hàng tạm khóa lại do nghi ngờ thẻ bị lợi dụng?",
+    "answer": "Với thẻ thanh toán F@stAccess, Quý khách có thể được mở lại thẻ, NH tiếp nhận yêu cầu trợ giúp mở khóa thẻ của Quý khách qua CN/PGD, hoặc qua F@st i-bank. Tuy nhiên Quý khách cần cân nhắc việc mở lại do thẻ tiềm ẩn nguy cơ xảy ra rủi ro trong tương lai.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Chương trình cashback 1% - quẹt là sướng” dành cho loại thẻ nào?",
+    "answer": "Chương trình \"Cashback 1% - Quẹt là sướng\" là chương trình hoàn tiền trên tổng giá trị thanh toán qua thẻ thanh toán của Techcombank mà khách hàng sử dụng giao dịch.\nChi tiết chương trình tại đây",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi muốn tham gia chương trình \"Hoàn tiền không giới hạn – Thẻ thanh toán Techcombank – Quẹt là sướng\" thì cần phải làm gì?",
+    "answer": "Để nhận được ưu đãi của chương trình \"Hoàn tiền không giới hạn – Thẻ thanh toán Techcombank – Quẹt là sướng\", chủ thẻ cần cần thực hiện:\n- Thanh toán chi tiêu, mua sắm hàng hóa, dịch vụ tại các điểm chấp nhận thẻ hoặc các phương thức điện tử (Internet, Mail/Phone order…) qua thẻ thanh toán Techcombank.\n- Các giao dịch này được ghi nhận là thành công trên hệ thống thẻ của Techcombank và/hoặc của tổ chức thẻ.\nChi tiết chương trình tại đây",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tham gia chương trình \"Hoàn tiền không giới hạn – Thẻ thanh toán Techcombank – Quẹt là sướng\" thì tôi được ưu đãi gì?",
+    "answer": "Với chương trình \"Hoàn tiền không giới hạn – Thẻ thanh toán Techcombank – Quẹt là sướng\", Quý khách hàng sẽ được hưởng các ưu đãi:\n1. Không giới hạn số tiền được hoàn\n2. Không giới hạn lĩnh vực chi tiêu (nhà hàng, khách sạn, mua sắm siêu thị, du lịch, y tế, giáo dục hay thanh toán các sinh hoạt phí như trả tiền điện, tiền nước,…).\n3. Không giới hạn số lượng khách hàng.\n4. Hoàn tiền 1% trên tổng giá trị thanh toán qua thẻ thanh toán Techcombank hàng tháng.\nChi tiết chương trình tại đây",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi được hoàn bao nhiêu tiền trên số tiền đã thanh toán qua thẻ thanh toán quốc tế Techcombank Visa/ Vietnam Airlines Techcombank Visa?",
+    "answer": "Với chương trình \"Hoàn tiền không giới hạn – Thẻ thanh toán Techcombank – Quẹt là sướng\", số tiền hoàn = 1% * tổng số tiền chi tiêu\nTrong đó, tổng số tiền chi tiêu được ghi nhận trên hệ thống thẻ Techcombank - các giao dịch hợp lệ được pháp luật công nhận vào ngày cuối cùng của mỗi tháng.\nChi tiết chương trình tại đây",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi đã thực hiện giao dịch thanh toán qua thẻ thanh toán nhưng chưa thấy được hoàn tiền từ chương trình \"Hoàn tiền không giới hạn – Thẻ thanh toán Techcombank – Quẹt là sướng\"?",
+    "answer": "Trong chương trình \"Hoàn tiền không giới hạn – Thẻ thanh toán Techcombank – Quẹt là sướng\", với các giao dịch hợp lệ, tiền sẽ được hoàn từ ngày 20 đến ngày 30 của tháng tiếp theo, hoặc ngày làm việc kế tiếp nếu ngày 30 là ngày nghỉ/ lễ theo quy định của Techcombank.\nTrong thời gian diễn ra chương trình, nếu Quý khách hàng cần hỗ trợ bất kỳ thông tin gì, vui lòng liên hệ DVKH 24/7 số 1800588822 hoặc Chi nhánh Techcombank gần nhất.\nChi tiết chương trình tại đây",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Nếu tôi chưa là Khách hàng của Techcombank hoặc chỉ có thẻ tín dụng mà chưa có thẻ thanh toán Techcombank thì có được áp dụng chương trình này không?",
+    "answer": "Nếu quý Khách hàng chưa là Khách hàng của Techcombank hoặc chưa có thẻ thanh toán của Techcombank thì Khách hàng sẽ không được hưởng ưu đãi của chương trình \"Hoàn tiền không giới hạn – Thẻ thanh toán Techcombank – Quẹt là sướng\".\nĐể tham gia chương trình, Khách hàng vui lòng mang CMND/Thẻ CCCD/ Hộ chiếu còn hiệu lực đến CN/PGD gần nhất để được hỗ trợ mở thẻ và chi tiêu bằng thẻ thanh toán Techcombank.\nChi tiết chương trình tại đây",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Thẻ tín dụng quốc tế Techcombank Visa có mấy hạng và hạn mức tín dụng của mỗi hạng là bao nhiêu?",
+    "answer": "Thẻ tín dụng quốc tế Techcombank Visa gồm 5 hạng:\n- Hạng Chuẩn: hạn mức tín dụng từ 10 triệu đến dưới 50 triệu đồng\n- Hạng Vàng: hạn mức tín dụng từ 50 triệu đồng trở lên\n- Hạng Platinum: hạn mức tín dụng từ 90 triệu đồng trở lên\n- Hạng Signature: hạn mức tín dụng từ 120 triệu đồng trở lên\n- Hạng Infinite: phát hành giới hạn cho nhóm KH cao cấp của Techcombank",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi muốn đăng ký phát hành thẻ tín dụng quốc tế Techcombank Visa nhưng không có đủ giấy tờ chứng minh thu nhập. Vậy tôi nên làm gì?",
+    "answer": "Nếu Quý khách hàng thuộc diện phê duyệt trước theo quy định của Ngân hàng, chúng tôi sẽ chủ động liên hệ hoặc có thông báo qua ứng dụng trên điện thoại thông minh của Quý khách\nNếu Quý khách hàng không thuộc diện phê duyệt trước, không có đủ giấy tờ chứng minh thu nhập thì Quý khách hàng nên đăng ký phát hành thẻ theo hình thức cầm cố sổ tiết kiệm.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể đề nghị ngân hàng nâng hạn mức tín dụng thẻ tín dụng quốc tế Techcombank Visa của tôi không?",
+    "answer": "Quý khách hàng vui lòng đến chi nhánh để yêu cầu nâng hạn mức tín dụng thẻ và cung cấp các giấy tờ chứng minh thu nhập/sổ tiết kiệm. Techcombank sẽ xem xét và giải quyết nếu yêu cầu của Quý khách hàng là hợp lệ.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Nếu tôi phát hành thẻ tín dụng quốc tế Techcombank Visa theo hình thức có tài sản bảo đảm thì những loại tài sản nào có thể sử dụng để bảo đảm?",
+    "answer": "Techcombank chỉ áp dụng cầm cố sổ tiết kiệm được mở tại Techcombank để làm tài sản đảm bảo cho việc phát hành thẻ tín dụng theo hình thức có tài sản bảo đảm.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi đã có thẻ tín dụng quốc tế Vietnam Airlines Techcombank Visa, vậy tôi có thể phát hành thêm thẻ tín dụng quốc tế Techcombank Visa không?",
+    "answer": "Có. Quý khách hàng có thể duy trì cùng lúc 2 loại thẻ tín dụng. Tuy nhiên, tổng hạn mức tín dụng cả hai thẻ tín dụng của Quý khách hàng tại cùng một thời điểm không được vượt quá hạn mức tín dụng tối đa được Techcombank cấp cho Quý khách hàng.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi muốn phát hành thẻ phụ thẻ tín dụng quốc tế Techcombank Visa cho con tôi. Vậy, con tôi có cần phải chứng minh thu nhập không?",
+    "answer": "Theo qui định của Techcombank, chủ thẻ phụ không cần phải chứng minh thu nhập",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Chủ thẻ phụ thẻ tín dụng quốc tế Techcombank Visa được cấp hạn mức tín dụng như thế nào?",
+    "answer": "Chủ thẻ phụ được sử dụng chung hạn mức với chủ thẻ chính, hạn mức cụ thể do chủ thẻ chính yêu cầu nhưng không vượt quá hạn mức tín dụng ngân hàng đã cấp cho chủ thẻ chính",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Để có thể sử dụng thẻ tín dụng quốc tế Techcombank Visa, tôi có bắt buộc phải đổi PIN lần đầu tại ATM không?",
+    "answer": "Không. Quý khách hàng có thể sử dụng thẻ ngay mà không cần đổi PIN lần đầu tại ATM.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Khi sử dụng thẻ tín dụng quốc tế Techcombank Visa để rút tiền mặt tại ATM của ngân hàng khác, tôi có phải trả phí không? Mức phí là bao nhiêu?",
+    "answer": "Với giao dịch rút tiền bằng thẻ tín dụng quốc tế Techcombank Visa tại ATM của ngân hàng khác, Techcombank sẽ thu mức phí là 4% giá trị giao dịch và tối thiểu là 100.000 đồng (đã bao gồm 10%VAT). Ngoài ra, Quý khách hàng có thể chịu thêm một mức phí do ngân hàng chủ quản ATM thu, mức phí này là khác nhau tùy theo quy định của từng ngân hàng.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi thực hiện thanh toán bằng thẻ tín dụng quốc tế Techcombank Visa và trả cho cửa hàng bằng USD thì tôi có phải trả phí không?",
+    "answer": "Khi sử dụng thẻ tín dụng Techcombank Visa để thanh toán các hóa đơn bằng ngoại tệ, Techcombank sẽ thu phí quản lý chi tiêu ngoại tệ của Quý khách hàng với mức phí theo quy định của Techcombank trong từng thời kỳ. Vui lòng xem biểu phí tại đây.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi có nhận hóa đơn sau khi thanh toán bằng thẻ có Contactless?",
+    "answer": "Khi thanh toán bằng thẻ có Contactless là hình thức thanh toán chạm để thanh toán mà không cần bất cứ giấy tờ gì khác, nhưng bạn vẫn có thể yêu cầu hóa đơn khi cần thiết.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Có trường hợp thanh toán 2 lần với thẻ có Contactless trên tài khoản của tôi?",
+    "answer": "Không. Máy thanh toán có Contactless được thiết kế chỉ 01 giao dịch cho 01 thẻ trong cùng 01 thời điểm.Để đảm bảo an toàn, mỗi giao dịch phải được hoàn tất hoặc hủy trước khi tiến hành thực hiện giao dịch khác.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Contactless áp dụng trên các loại thẻ nào?",
+    "answer": "Áp dụng với các loại thẻ Visa: thẻ tín dụng, thẻ thanh toán/thẻ ghi nợ và thẻ trả trước.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể kiểm tra chi tiêu như thế nào khi dùng thẻ có Contactless?",
+    "answer": "Với thẻ tín dụng, bạn có thể kiểm tra chi tiết giao dịch đã chi tiêu thông qua Sao kê thẻ tín dụng  hàng tháng Ngân hàng gửi. Với thẻ thanh toán/thẻ ghi nợ, bạn có thể kiểm tra giao dịch chi tiêu của mình trên sổ phụ ngân hàng/ liệt kê giao dịch tài khoản qua các ứng dụng dịch vụ ngân hàng điện tử của Techcombank.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể vô tình thực hiện thanh toán khi đi ngang qua máy thanh toán thẻ hay không?",
+    "answer": "Không. Việc thiết kế Contactless được đảm bảo rằng chủ thẻ sẽ luôn được kiểm soát. Trước tiên, người bán hàng cần nhập giá trị thanh toán và thẻ của bạn cần được giữ khoản cách theo qui định của thiết bị thanh toán thì giao dịch mới có thể thực hiện được. Thiết bị thanh toán chỉ xử lý 01 giao dịch tại 01 thời điểm.",
+    "category": "Chi tieu",
+    "group": ""
+  },
+  {
+    "question": "Tại sao cần mua bảo hiểm xe ô tô?",
+    "answer": "Với mật độ giao thông đông đúc như hiện nay tại Việt Nam, hợp đồng bảo hiểm xe ô tô sẽ giúp Khách hàng hoàn toàn an tâm luôn có Công ty Bảo hiểm hỗ trợ mọi chi phí sửa chữa, bảo dưỡng tài sản của mình nếu gặp sự cố trên đường 24/24,  thậm chí Khách hàng sẽ được Công ty Bảo hiểm cam kết cấp một chiếc xe ô tô mới với trường hợp bị tổn thất nghiêm trọng (75% giá trị xe) hoặc chiếc xe bị mất trộm.\n\n \n\nNgoài ra, để hỗ trợ ngân hàng quản trị rủi ro hiệu quả, việc tham gia bảo hiểm xe ô tô là một trong các điều kiện cần và đủ đối với Hợp đồng Vay mua xe ô tô của khách hàng. Điều kiện này đã được qui định trong thủ tục vay tại Techcombank giống như tại các Ngân hàng khác.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Tôi có người quen làm đại lý bảo hiểm xe ô tô, vậy tôi có thể không mua bảo hiểm xe ô tô tại Techcombank được không?",
+    "answer": "Khách hàng có thể tự lưa chọn các Công ty Bảo hiểm phù hợp cho mình, tuy nhiên Techcombank khuyến khích Khách hàng nên cân nhắc và lựa chọn dịch vụ này tại Techcombank vì sẽ mang lại các tiện ích và quyền lợi ưu đãi cho Khách hàng như:\n- Được hưởng phí bảo hiểm ưu đãi tới 30% so với giá thị trường\n- Được bảo hiểm miễn phí 3 quyền lợi mở rộng (chọn cơ sở sữa chữa, thay mới không khấu hao, động cơ\n  bị thiệt hại do hiện tượng thủy kích)\n- Được đơn giản hơn về các thủ tục hồ sơ bảo hiểm trước khi giải ngân\n- Được cam kết dịch vụ chất lượng trước và sau bán hàng bởi các Đối tác bảo hiểm dẫn đầu thị trường\n- Được Techcombank hỗ trợ và tư vấn thông tin và thủ tục bồi thường sau này\n\n \n\nQuan trọng nhất Khách hàng có thể được tư vấn và chọn lựa ngay tại Techcombank các Công ty Bảo hiểm dẫn đầu thị trường Việt nam đang hợp tác với Techcombank để đem đến cho Khách hàng sự đơn giản và thuận tiện về thủ tục với cam kết đảm bảo dịch vụ chất lượng trước và sau bán hàng dành cho Khách hàng của Techcombank.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Khi xảy ra tai nạn hoặc đụng xe trên đường , tôi cần gọi cho ai? Techcombank hay công ty bảo hiểm?",
+    "answer": "Khách hàng có thể gọi cho đường dây nóng của Công ty Bảo hiểm (số điện thoại được ghi trong giấy chứng nhận bảo hiểm – giấy tờ này luôn được Khách hàng mang theo trên đường) hoặc gọi đường dây nóng của Techcombank để được hướng dẫn và hỗ trợ.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Tôi đã có Hợp đồng bảo hiểm xe ô tô từ trước nhưng không có 3 sản phẩm quyền lợi mở rộng. Vậy tôi có bắt buộc phải mua bổ sung hay không?",
+    "answer": "Về quản trị rủi ro của Ngân hàng: Điều kiện có 3 quyền lợi mở rộng là điều kiện bắt buộc\n\nVề quyền lợi của khách hàng: 3 quyền lợi mở rộng này sẽ giúp tăng tính toàn diện và đầy đủ về quyền lợi bảo hiểm cho giá trị tài sản của Khách hàng trước những rủi ro không thể lường trước gây thiệt hại về kinh tế cho khách hàng.\n\nDo vậy Khách hàng cần và nên mua đủ 3 quyền lợi mở rộng này trong bất kỳ trường hợp nào.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Tôi mua xe ô tô và được showroom tặng hợp đồng bảo hiểm xe, vậy hợp đồng này có đủ tính hợp lệ để hoàn tất hồ sơ vay thế chấp với Techcombank hay không?",
+    "answer": "Đối với những hợp đồng Bảo hiểm Khách hàng mua hoặc được tặng của các Công ty Bảo hiểm nằm ngoài danh sách các đối tác của Techcombank, Khách hàng cần thực hiện thủ tục xác nhận 3 bên chuyển quyền thụ hưởng bảo hiểm cho Techcombank (theo mẫu của Techcombank). Nếu mua bảo hiểm của các đối tác BH của Techcombank, Khách hàng sẽ không phải làm thủ tục này.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Có gì khác biệt nếu như tôi đến Techcombank chọn gói vay tiền mua ô tô đồng thời vay tiền mua bảo hiểm thay vì tôi tự túc trả phí bảo hiểm?",
+    "answer": "Khi chọn gói SP vay chi trả phí BH, sẽ mang lại cho KH các tiện ích và quyền lợi như sau:\n+ Khách hàng sẽ được hưởng mức phí ưu đãi hơn, thấp hơn 20% so với mua từng năm\n+ Khách hàng luôn yên tâm và không phải mất thời gian gia hạn bảo hiểm hàng năm vì tài sản của Khách hàng sẽ được bảo hiểm trong suốt thời gian vay tại Techcombank\n+ Khách hàng không phải đóng ngay một khoản phí bảo hiểm lớn, thay vào đó số tiền này sẽ được chia\nnhỏ và Khách hàng sẽ đóng gộp với tiền vay và lãi hàng tháng.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Tôi mua ô tô và cũng đã có bảo hiểm từ trước, nay tôi muốn sử dụng chiếc ô tô này làm tài sản đảm bảo để vay thế chấp tại Techcombank. Như vậy tôi có cần mua thêm bảo hiểm tại Tehcombank hay không?",
+    "answer": "Để đảm bảo an toàn cho tài sản của Khách hàng đồng thời hỗ trợ ngân hàng quản trị rủi ro, tại các ngân hàng hiện nay trong đó có Techcombank có yêu cầu thời hạn của hợp đồng bảo hiểm xe ô tô ít nhất một năm trở lên. Như vậy, nếu Khách hàng đã mua bảo hiểm xe ô tô cho mình từ trước, Khách hàng có thể kiểm tra xem thời gian đã mua bảo hiểm là bao lâu và nếu thiếu. có thể được yêu cầu mua bổ sung để đủ một năm  hoặc được khuyến khích mua cho thời gian còn lại của khoản vay tại Ngân hàng.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Tại các Ngân hàng khác, sau khi giải ngân khoản vay, Khách hàng chỉ được giữ bản sao của Hợp đồng bảo hiểm trong khi đó nếu mua bảo hiểm xe ô tô tại Techcombank, Khách hàng sẽ được giữ bộ hợp đồng gốc , vậy việc được giữ bộ hợp đồng gốc có ưu điểm gì?",
+    "answer": "Trường hợp Khách hàng chỉ được giữ bản sao của Hợp đồng bảo hiểm, để hoàn tất thủ tục bồi thường với Công ty BH, Khách hàng sẽ mất thời gian và chi phí đi lại để xin xác nhận của NH.\n \nViệc Khách hàng được lưu giữ bộ hợp đồng BH gốc sẽ giúp Khách hàng thuận lợi và nhanh chóng hơn rất nhiều trong quá trình thực hiện bồi thường nếu có rủi ro hay tổn thất xảy ra.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể mua với giá trị bảo hiểm thấp hơn giá trị xe được không?",
+    "answer": "Với Ngân hàng, việc mua bảo hiểm thấp hơn 100% giá trị xe sẽ không ảnh hưởng nhiều đến vấn đề quản trị rủi ro, tuy nhiên sẽ rất ảnh hưởng đến quyền lợi của Khách hàng, như sau:\n+ Trưởng hợp khi xảy ra tổn thất, khách hàng phải đưa xe vào gara sửa chữa hoặc thay linh kiện hoặc phụ tùng mới, Công ty Bảo hiểm sẽ chỉ chi trả  một phần tương đương với tỷ lệ % chi phí sửa chữa hoặc giá trị của linh kiện hay phụ tùng thay thế, chính vì vậy, Khách hàng sẽ rất thiệt thòi khi phải mất thêm chi phí không nhỏ để trả tiền sửa chữa xe hay mua linh kiện hoặc phụ tùng mới thay thế.\n+ Việc mua bảo hiểm không đủ giá trị xe, thủ tục tiến hành bồi thường sẽ phức tạp hơn liên quan đến việc thẩm định và định giá tổn thất theo tỷ lệ thấp hơn với giá trị bồi thường thực tế. Khách hàng sẽ mất nhiều thời gian hơn để được nhận tiền bồi thường.\nChính vì vậy để đảm bảo tài sản của Khách hàng luôn được bảo hiểm đầy đủ và toàn diện, Khách hàng cần mua bảo hiểm cho 100% giá trị xe.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Tại sao cần mua bảo hiểm nhà tư nhân?",
+    "answer": "Bảo hiểm nhà tư nhân sẽ giúp Khách hàng hoàn toàn an tâm khi tài sản của mình luôn có Công ty Bảo hiểm bảo vệ 24/24 và hỗ trợ mọi chi phí sửa chữa và xây dựng căn nhà, cũng như chi phí sửa chữa thay thế bộ phận cho xe nếu nhà và xe gặp các sự cố.\n\nNgoài ra, để hỗ trợ ngân hàng quản trị rủi ro hiệu quả, việc tham gia bảo hiểm nhà tư nhân là một trong các điều kiện cần và đủ đối với Hợp đồng Vay mua nhà của khách hàng. Điều kiện này đã được qui định trong thủ tục vay tại Techcombank.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Tôi có người quen làm đại lý bảo hiểm, vậy tôi có thể không mua bảo hiểm tại Techcombank không?",
+    "answer": "Khách hàng có thể tự lưa chọn các Công ty Bảo hiểm phù hợp cho mình, tuy nhiên Techcombank khuyến khích Khách hàng nên cân nhắc và lựa chọn dịch vụ này tại Techcombank vì sẽ mang lại các tiện ích và quyền lợi ưu đãi cho Khách hàng như:\n\nPhí bảo hiểm đã được Techcombank thỏa thuận với Công ty bảo hiểm để cấp cho khách hàng của Techcombank với mức phí ưu đãi so với giá thị trường\nHợp đồng bảo hiểm đã được Techcombank thỏa thuận với đối tác để đảm bảo tối đa quyền lợi cho khách hàng.\nĐược đơn giản hơn về các thủ tục hồ sơ bảo hiểm trước khi giải ngân\nĐược Techcombank hỗ trợ và tư vấn thông tin và thủ tục bồi thường sau này\n\nQuan trọng nhất Khách hàng có thể được tư vấn và chọn lựa ngay tại Techcombank các Công ty Bảo hiểm dẫn đầu thị trường Việt nam đang hợp tác với Techcombank để đem đến cho Khách hàng sự đơn giản và thuận tiện về thủ tục với cam kết đảm bảo dịch vụ chất lượng trước và sau bán hàng dành cho Khách hàng của Techcombank.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Khi sự kiện bảo hiểm xảy ra, tôi cần gọi cho ai? Techcombank hay công ty bảo hiểm?",
+    "answer": "Khách hàng có thể gọi cho đường dây nóng của Công ty Bảo hiểm (số điện thoại được ghi trong giấy chứng nhận bảo hiểm nhà của Khách hàng) hoặc liên hệ chuyên viên Techcombank phụ trách khoản vay của khách hàng để được hướng dẫn và hỗ trợ.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Tôi mua nhà và đã có bảo hiểm từ trước, nay tôi muốn sử dụng ngôi nhà làm tài sản thế chấp tại Ngân hàng. Như vậy, tôi có cần mua thêm bảo hiểm tại Techcombank không?",
+    "answer": "Để đảm bảo an toàn cho tài sản của Khách hàng đồng thời hỗ trợ ngân hàng quản trị rủi ro, tại các ngân hàng hiện nay trong đó có Techcombank có yêu cầu thời hạn của hợp đồng bảo hiểm nhà ít nhất một năm trở lên.\n\nNhư vậy, nếu Khách hàng đã mua bảo hiểm nhà từ trước, Khách hàng có thể kiểm tra xem thời gian đã mua bảo hiểm là bao lâu và nếu thiếu có thể mua bổ sung để đủ một năm hoặc được khuyến khích mua cho thời gian còn lại của khoản vay tại Ngân hàng.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Tôi mua nhà và được chủ dự án tặng bảo hiểm. Vậy hợp đồng bảo hiểm này có đủ tính hợp lệ để hoàn tất hồ sơ vay thế chấp tại Techcombank không?",
+    "answer": "Đối với những hợp đồng Bảo hiểm Khách hàng mua hoặc được tặng tại Công ty Bảo hiểm nằm ngoài danh sách đối tác của Techcombank, bộ hồ sơ bảo hiểm sẽ được kiểm tra về tính đầy đủ, hợp lệ quy định của Ngân hàng. Nếu mua bảo hiểm của các đối tác bảo hiểm của Techcombank, Khách hàng sẽ không phải làm thủ tục này.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Quyền lợi cụ thể của sản phẩm cụ thể là gì?",
+    "answer": "Khi khách hàng tham gia khoản vay tại Techcombank hoàn toàn yên tâm trong việc thu xếp trả nợ ngân hàng khi có những biến cố không lường trước trong cuộc sống. Cụ thể như:\nKhi có sự kiện bảo hiểm xảy ra, như người được bảo hiểm không thể tạo ra thu nhập do nguyên nhân tai nạn hay sức khỏe dẫn đến Thương tật toàn bộ vĩnh viễn hay Tử vong.như: Thương tật toàn bộ & vĩnh viễn hay Tử vong. Công ty Bảo hiểm (Đối tác của Techcombank) sẽ thay mặt Khách hàng thanh toán toàn bộ dư nợ còn lại của khoản vay của Khách hàng cho Techcombank.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Nếu tôi trả nợ trước thời hạn, tôi có được tiếp tục bảo hiểm hay không?",
+    "answer": "Hợp đồng bảo hiểm sẽ tự động chấm dứt sau khi Khách hàng thanh toán khoản vay (gốc và lãi) tại\nTechcombank.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Khi tham gia sản phẩm này tại Techcombank có khác gì với một sản phẩm bảo hiểm nhân thọ bên ngoài?",
+    "answer": "Thứ nhất, đây là một sản phẩm bảo hiểm tín dụng được Techcombank thiết kế riêng biệt dành cho khách hàng của mình. Chính vì vậy khoản phí rất thấp nhưng quyền lợi lại rất lớn và luôn đảm bảo tương đương khoản vay hiện tại của khách hàng.\n\nThứ hai là để tham gia một hợp đồng bảo hiểm nhân thọ ngoài thị trường đòi hỏi yêu cầu khá khắt khe về thủ tục và điều kiện tham gia.\n\nVới dịch vụ mà Techcombank cung cấp sẽ hoàn toàn tiện ích cho khách hàng: Thủ tục đơn giản và chuyên nghiệp giúp khách hàng hoàn toàn yên tâm và thoải mái.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Thời gian bảo hiểm có hiệu lực đến khi nào?",
+    "answer": "Khách hàng sẽ được bảo hiểm trong suốt thời hạn của khoản vay mua nhà tại Techcombank.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Khi tham gia bảo hiểm tôi có phải đi khám sức khỏe không?",
+    "answer": "Khách hàng chỉ phải trả lời trung thực một số câu hỏi liên quan cơ bản đến sức khỏe của mình. Phần lớn khách hàng không phải đi khám sức khỏe khi tham gia bảo hiểm. Tuy nhiên, căn cứ vào một số câu trả lời trong Hồ sơ yêu cầu bảo hiểm liên quan đến sức khỏe thì Công ty bảo hiểm sẽ xem xét từng trường hợp mời khách hàng đi khám. Dịch vụ khám sức khỏe là quyên lợi cho khách hàng và miễn phí.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Cả hai vợ chồng tôi đều được bảo hiểm có được không?",
+    "answer": "Thông thường người được bảo hiểm chính là người tạo ra nguồn thu nhập chính cho gia đình. Tuy nhiên, cả 2 vợ chồng cũng có thể được bảo hiểm (Đồng bảo hiểm) trong hợp đồng, khi đó khách hàng phân bổ tỷ lệ % bảo hiểm cho 2 người và tổng quyền lợi bảo hiểm không vượt quá 100% giá trị khoản vay.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Khi xảy ra sự kiện bảo hiểm thì tôi liên hệ công ty bảo hiểm hay Techcombank?",
+    "answer": "Khách hàng có thể gọi cho đường dây nóng của Công ty Bảo hiểm (số điện thoại được ghi trong giấy chứng nhận bảo hiểm nhà của Khách hàng hoặc gọi đường dây nóng của Techcombank để được hướng dẫn và hỗ trợ.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Công ty Bảo hiểm sẽ bảo hiểm cho những trường hợp rủi ro nào?",
+    "answer": "Khi Khách hàng không còn khả năng để tạo thu nhập vì lý do rủi ro sức khỏe (tai nạn hoặc bệnh tật).",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Chương trình bảo hiểm Du lịch toàn cầu được Techcombank mua tặng cho khách hàng hay Khách hàng phải tự chi trả phí để hưởng quyền lợi bảo hiểm và dịch vụ đi kèm?",
+    "answer": "Đây là sản phẩm mà Techcombank mua tặng ngay cho tất cả các khách hàng phát hành Thẻ thanh toán và tín dụng quốc tế Techcombank Visa loại Platinum.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Thời điểm bắt đầu hiệu lực của bảo hiểm Du lịch toàn cầu cho chủ thẻ Visa Platinum là khi nào?",
+    "answer": "Thời hạn bảo hiểm dành cho chủ thẻ tương đương với thời hạn sử dụng của thẻ Visa Platinum.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Quyền lợi của sản phẩm bảo hiểm du lịch toàn cầu dành cho chủ thẻ Techcombank Visa hạng Platinum cụ thể là gì?",
+    "answer": "Chủ thẻ Visa Platinum của Techcombank được hưởng các quyền lợi bảo hiểm du lịch toàn cầu như sau:\n\nTóm tắt quyền lợi\tGiới hạn tối đa cho mỗi chủ thẻ\nTử vong và thương tật do tai nạn\t42.000.000 VNĐ\nNgười được bảo hiểm dưới 65 tuổi\t10.500.000.000 VNĐ\nNgười được Bảo Hiểm từ 65 tuổi trở lên\t5.250.000.000 VNĐ\nHành lý cá nhân bao gồm máy tính xách tay\nThanh toán cho tổn thất đối với hành lý, quần áo, tư trang, máy tính xách tay bị mất hoặc hư hỏng trong chuyến đi. (Tối đa 10.500.000 VNĐ đối với mỗi đồ vật hoặc cặp hoặc bộ đồ vật. Tối đa 21.000.000 VNĐ đối với máy tính xách tay)\t42.000.000 VNĐ\nNgười được bảo hiểm: Mở rộng: Trong đó “Chủ thẻ”  ở đây được hiểu là “Chủ thẻ chính” hoặc “Chủ thẻ phụ” của một thẻ Visa Platinum vẫn còn giá trị sử dụng\tMở rộng bảo hiểm\n\n\nDịch vụ trợ giúp toàn cầu International SOS\n\nDịch vụ hỗ trợ & khẩn cấp toàn cầu luôn sẵn sàng 24/7 để hỗ trợ Người được bảo hiểm trong suốt chuyến đi và được cung cấp hoàn toàn MIỄN PHÍ. Chỉ cần thực hiện cuộc gọi đến tổng đài Trợ giúp Khẩn cấp của International SOS bất cứ lúc nào để nhận được các dịch vụ sau đây:\n\nĐường dây nóng hỗ trợ toàn cầu 24/7 bao gồm cả tiếng Anh: 84-28 3827 5328\n\n\tMở rộng bảo hiểm\n\n(*) POS chỉ quẹt phí lần đầu (bao gồm topup) tương ứng với số tiền trong bảng minh họa.",
+    "category": "Bao hiem",
+    "group": ""
+  },
+  {
+    "question": "Khách bán Chứng chỉ Quỹ phải trả các loại phí, thuế gì?",
+    "answer": "Phí Quỹ mua lại Chứng chỉ Quỹ và thuế Thu nhập cá nhân",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Số tiền tối thiểu khi KH mua Chứng chỉ Quỹ là bao nhiêu?",
+    "answer": "10,000 VNĐ",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Chứng chỉ Quỹ mở có niêm yết trên thị trường chứng khoán không?",
+    "answer": "Khác với chứng chỉ Quỹ đóng đại chúng, chứng chỉ Quỹ mở không niêm yết. Khi có nhu cầu giao dịch khách hàng có thể giao dịch tại các Đại lý phân phối được chỉ định của quỹ.",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Kỳ hạn của Chứng chỉ bao lâu?",
+    "answer": "Chứng chỉ Quỹ không xác định kỳ hạn.",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Khách mua Chứng chỉ Quỹ phải trả các loại phí, thuế gì?",
+    "answer": "Phí phát hành Chứng chỉ Quỹ (phí mua Chứng chỉ Quỹ) và Phí chuyển tiền (nếu có)",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Khách hàng có thể bán một phần Chứng chỉ Quỹ không?",
+    "answer": "Có, tối thiểu 10 (mười) đơn vị Chứng chỉ Quỹ",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "NAV là gì?",
+    "answer": "Là giá trị tài sản ròng của Quỹ, được xác định bằng tổng giá trị thị trường các tài sản và các khoản đầu tư do Quỹ sở hữu trừ đi các nghĩa vụ nợ của Quỹ được tính đến ngày gần nhất trước Ngày Định Giá.",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Ngày Giao dịch Chứng chỉ Quỹ là?",
+    "answer": "Là ngày mà khách hàng có thể mua, bán, chuyển đổi Quỹ hoặc chuyển nhượng Đơn vị Quỹ. Hiện nay là tất cả các ngày làm việc trong tuần (không bao gồm thứ Bảy)",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Khách hàng sở hữu bao nhiêu Chứng chỉ Quỹ mới được tham dự đại hội nhà đầu tư?",
+    "answer": "Chỉ cần là Nhà đầu tư đang sở hữu Chứng chỉ Quỹ",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Lệnh bán tối thiểu là bao nhiêu đơn vị Chứng chỉ Quỹ?",
+    "answer": "10 (mười) đơn vị Quỹ, ngoại trừ trường hợp Lệnh Bán yêu cầu giảm số Đơn Vị Quỹ nắm giữ về 0 (không)",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Ngân hàng giám sát Quỹ TCBF, TCEF là ngân hàng nào?",
+    "answer": "Ngân hàng TNHH Một Thành Viên Standard Chartered (Việt Nam)",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Số dư Chứng chỉ Quỹ tối thiểu khách hàng phải giữ trong tài khoản đầu tư là bao nhiêu?",
+    "answer": "Không yêu cầu số dư tối thiểu",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Ngày khách hàng nhận tiền dự kiến khi bán Chứng chỉ Quỹ TCEF (ngày giao dịch gọi tắt là ngày T)?",
+    "answer": "T+3 (không tính t7, CN, ngày nghỉ lễ)",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Quỹ đầu tư trái phiếu là gì?",
+    "answer": "Là quỹ mở đầu tư vào các loại trái phiếu, giấy tờ có giá với tỷ trọng đầu tư vào các tài sản này chiếm tối đa tám mươi phần trăm (80%) giá trị tài sản ròng.",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Thời điểm đóng sổ lệnh là gì?",
+    "answer": "Là thời điểm cuối cùng Đại lý phân phối nhận lệnh mua, bán Chứng chỉ Quỹ của khách hàng",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Khách mua Chứng chỉ Quỹ cần chuyển thành công tiền mua Chứng chỉ Quỹ đến tài khoản Quỹ lúc nào?",
+    "answer": "Trước thời điểm đóng số lệnh",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Ngày khách hàng nhận tiền dự kiến khi bán Chứng chỉ Quỹ TCBF (ngày giao dịch gọi tắt là ngày T)?",
+    "answer": "Ngày T",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Thời điểm đóng sổ lệnh là lúc nào nếu ngày giao dịch gọi là ngày T?",
+    "answer": "14h45 ngày T-1",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Quỹ FlexiCA$H khác gì với quỹ TCBF, TCEF?",
+    "answer": "Chiến lược đầu tư và danh mục đầu tư của Quỹ FlexiCA$H khác với quỹ TCBF và TCEF. Quỹ FlexiCA$H đầu tư chủ yếu vào trái phiếu chính phủ, trái phiếu ngân hàng, chứng chỉ tiền gửi với khả năng thanh khoản cao và linh hoạt. Chính vì thế nhóm khách hàng Quỹ FlexiCA$H hướng tới là các khách hàng đầu tư ngắn hạn dưới 03 tháng với lãi suất kỳ vọng là 6%/năm.",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Quỹ FlexiCA$H là gì?",
+    "answer": "Quỹ FlexiCA$H là tên viết tắt của Quỹ Đầu tư Trái phiếu Linh hoạt Techcom, một quỹ mở được quản lý bởi Công ty Quản lý Quỹ Kỹ Thương.",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Giá trị tối thiểu của một hợp đồng mua bán trái phiếu doanh nghiệp iBond là bao nhiêu?",
+    "answer": "1 triệu VNĐ mệnh giá trái phiếu",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Khách hàng có thể tham gia đặt mua trái phiếu doanh nghiệp iBond vào những ngày nào?",
+    "answer": "Tất cả các ngày làm việc (trừ ngày nghỉ, ngày lễ)",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Khách hàng mua trái phiếu iBond được cầm cố thế chấp trái phiếu để vay tại Techcombank?",
+    "answer": "Có, đối với các trái phiếu được Techcombank phê duyệt nhận làm tài sản đảm bảo vay cầm cố theo chính sách cho vay của Techcombank tại từng thời kỳ",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Lãi suất đầu tư cuối kỳ trái phiếu iBond theo thông báo của TCBS có phải chịu thuế thu nhập cá nhân nữa không?",
+    "answer": "Không. Lãi suất đầu tư khách hàng nhận được là giá trị sau thuế",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Chính sách \"Mua càng lớn, giá càng nhỏ\" áp dụng cho đối tượng khách hàng nào?",
+    "answer": "Tất cả các khách hàng mua trái phiếu doanh nghiệp iBond Prix của TCBS. Mức ưu đãi sẽ áp dụng theo các mức tương ứng với số tiền khách hàng đã và đang đầu tư vào trái phiếu tại TCBS. Cụ thể khách hàng sẽ được hưởng 2 ưu đãi trong 1 lần đầu tư:\n\nCác mức ưu đãi bậc thang trên giá trị giao dịch đang thực hiện (tính theo mệnh giá trái phiếu) (VIP 1)\nCác mức ưu đãi tính trên Phân hạng theo quy định về xếp hạng khách hàng tại TCBS  (VIP2)",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Khách mua trái phiếu doanh nghiệp iBond có được nhận lãi trái phiếu (coupon) theo quy định của trái phiếu?",
+    "answer": "Khách hàng mua trái phiếu được hưởng toàn bộ quyền lợi của Người sở hữu trái phiếu, bao gồm quyền nhận lãi trái phiếu (nếu Khách hàng vẫn sở hữu trái phiếu tại ngày chốt quyền gần nhất trước ngày trả lãi)",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Sau khi hoàn thành giao dịch mua trái phiếu iBond, TCBS cung cấp cho tôi giấy tờ gì?",
+    "answer": "Khách hàng có thể xem lại bộ hợp đồng online đã ký tại TCInvest. Ngoài ra, TCBS có thể cấp cho khách hàng 1 bản Xác nhận giao dịch tải từ hệ thống TCInvest.",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Chương trình Trái tức sinh lời áp dụng khi nào?",
+    "answer": "- Khi đặt mua trái phiếu iBond (bao gồm các giao dịch mua trong iConnect), khách hàng có thể chọn tham gia chương trình trái tức sinh lời\n- Khi tham gia Chương trình trái tức sinh lời, Khách hàng được tự động đầu tư trái tức vào các Quỹ, ví dụ như: TCBF/TCEF/TCFF",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Đối với sản phẩm iBond Pro 180, Khách hàng có thể có các kỳ hạn đầu tư nào?",
+    "answer": "Bằng kỳ hạn còn lại của trái phiếu hoặc tại các ngày tròn 6 tháng kể từ ngày mua (ngày môi giới thể hiện chi tiết tại Hợp đồng môi giới) với điều kiện không xảy ra sự kiện vi phạm theo Bản Công Bố thông tin của trái phiếu thể hiện bằng việc trái phiếu bị trái chủ gửi yêu cầu tuyên bố trái phiếu đến hạn.",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Đối với sản phẩm iBond Pro 360, Pro180, Pro90, vào ngày môi giới cuối cùng, nếu khách hàng lựa chọn tiếp tục giữ trái phiếu đến ngày đáo hạn thì phải làm thủ tục gì?",
+    "answer": "Khách hàng không phải làm gì cả.",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Thời hạn vay của sản phẩm cho vay cầm cố trái phiếu?",
+    "answer": "Theo quy định của TCB theo từng thời kỳ đối với mỗi loại sản phẩm",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Đối với sản phẩm iBond Pro 90, Khách hàng có thể có các kỳ hạn đầu tư nào?",
+    "answer": "Bằng kỳ hạn còn lại của trái phiếu hoặc tại các ngày tròn 3 tháng kể từ ngày mua (ngày môi giới thể hiện chi tiết tại Hợp đồng môi giới) với điều kiện không xảy ra sự kiện vi phạm theo Bản Công Bố thông tin của trái phiếu thể hiện bằng việc trái phiếu bị trái chủ gửi yêu cầu tuyên bố trái phiếu đến hạn.",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Ý nghĩa của chương trình Trái tức sinh lời?",
+    "answer": "Lãi coupon trả định kỳ mà khách hàng nhận được khi mua sẽ được TCBS tự động đặt mua chứng chỉ quỹ TCBF/TCEF/TCFF,... để tái đầu tư giúp khách hàng nhận được lợi nhuận cao hơn. Lãi sinh lãi.",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Khi chọn chương trình trái tức sinh lời, khách hàng có phải thao tác gì vào mỗi dịp trả coupon không?",
+    "answer": "Không, TCBS sẽ tự động thực hiện đặt lệnh cho khách hàng",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Tôi có nhu cầu bán lại trái phiếu sau 9 tháng thì nên chọn nhu cầu nào?",
+    "answer": "Quý khách có thể chọn nhu cầu Dòng tiền định sẵn hoặc Tích lũy bền vững (với mã trái phiếu còn 9 tháng nữa sẽ đáo hạn)",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Đối với sản phẩm iBond Pro 360, Khách hàng có thể có các kỳ hạn đầu tư nào?",
+    "answer": "Bằng kỳ hạn còn lại của trái phiếu hoặc tại các ngày tròn 12 tháng kể từ ngày mua (ngày môi giới thể hiện chi tiết tại Hợp đồng môi giới) với điều kiện không xảy ra sự kiện vi phạm theo Bản Công Bố thông tin của trái phiếu thể hiện bằng việc trái phiếu bị trái chủ gửi yêu cầu tuyên bố trái phiếu đến hạn.",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Sản phẩm trái phiếu iBond nào không có ngày và số lần môi giới được xác định trước?",
+    "answer": "iBond Prix là sản phẩm không kèm hợp đồng môi giới. Khách hàng có nhu cầu bán lại có thể sử dụng thỏa thuận trái phiếu iConnect",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Tôi muốn nắm giữ trái phiếu đến đáo hạn thì nên chọn nhu cầu nào?",
+    "answer": "Quý khách có thể chọn Nhu cầu tích lũy bền vững hoặc Dòng tiền định sẵn (thời gian nắm giữ bằng thời gian tính đến lúc trái phiếu đáo hạn)",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Trong giao dịch \"Mua càng lớn, giá càng nhỏ\", khi nào 01 hợp đồng được tính vào tài sản đang nắm giữ của khách hàng, và là cơ sở để tính cho mức điều chỉnh giảm giá VIP2 cho giao dịch tiếp theo?",
+    "answer": "Khi giao dịch được ghi nhận đã thanh toán (TCBS cắt tiền thành công, gửi tin nhắn xác nhận cho khách hàng).",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Trong chương trình \"Trái tức sinh lời\", coupon sẽ được tái đầu tư vào sản phẩm nào?",
+    "answer": "Hiện TCBS  đang tái đầu tư vào quỹ TCBF/TCEF/TCFF/... Các sản phẩm đầu tư này đang tăng trưởng rất ổn định lên đến 10%/năm.",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Nếu không được bán trái phiếu trên iConnect thì tôi có được chuyển nhượng cho nhà đầu tư khác không? Thủ tục thế nào?",
+    "answer": "Quý khách có thể chủ động chuyển nhượng cho nhà đầu tư khác bằng cách ký hợp đồng chuyển nhượng tại trụ sở của TCBS\nLưu ý: TCBS không hỗ trợ tìm đối tác và tính giá.",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Vì sao cùng một mã trái phiếu nhưng chọn nhu cầu khác nhau thì lãi suất lại khác nhau?",
+    "answer": "Giá sẽ được chiết khấu dựa trên thời gian nắm giữ trái phiếu, thời gian nắm giữ càng dài thì chiết khấu giá càng nhiều, lãi suất khách hàng nhận được sẽ càng cao.",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Sản phẩm Đầu tư linh hoạt là gì?",
+    "answer": "Sản phẩm đáp ứng nhu cầu của những khách hàng năng động, mua đi bán lại trái phiếu để quay vòng liên tục nhằm kiếm lời. TCBS cung cấp giải pháp nền tảng giao dịch iConnect giúp khách hàng dễ dàng kết nối và mua bán bất kỳ lúc nào với quy mô giao dịch thành công hàng nghìn tỷ đồng/tháng.",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Vì sao đều là mã iBond nhưng khi chọn nhu cầu “Tích lũy bền vững” và “Dòng tiền định sẵn” lại không được bán trên iConnect?",
+    "answer": "Hai sản phẩm này được xây dựng trên cơ sở đáp ứng nhu cầu đầu tư là lãi suất cao hoặc có đảm bảo thanh khoản. Đây là những ưu điểm vượt trội, khách hàng đã được nhận chiết khấu trên giá ngay khi mua so với các sản phẩm được bán lại trên iConnect.",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Sản phẩm Dòng tiền định sẵn là gì?",
+    "answer": "Sản phẩm dành cho khách hàng có nhu cầu bán lại tại một thời điểm định sẵn (3-6-12 tháng...) với thanh khoản và lợi tức đầu tư được đảm bảo theo hợp đồng môi giới ký với TCBS. Loại trái phiếu này không được bán trên mục thỏa thuận trái phiếu iConnect trong thời hạn nắm giữ.\n100% các hợp đồng Trái phiếu Định sẵn ký với TCBS đã được tất toán thành công đúng hạn đúng lãi suất trong toàn bộ lịch sử gần 1 thập kỷ của sản phẩm.",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Sau khi đã thực hiện giao dịch thành công, tôi muốn thay đổi sản phẩm thì có được không?",
+    "answer": "Không. Sau khi giao dịch thành công, quý khách không thay đổi được lựa chọn của mình.",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Đối với sản phẩm có ngày và số lần môi giới được xác định trước, thông tin này được thể hiện ở đâu?",
+    "answer": "Được thể hiện trong Hợp đồng môi giới bán trái phiếu (HD03)",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Sản phẩm Tích lũy bền vững là gì?",
+    "answer": "Là sản phẩm đáp ứng nhu cầu đầu tư trái phiếu dài hạn, nắm giữ đến hết kỳ hạn trái phiếu với lãi suất cao hơn hẳn tiết kiệm.",
+    "category": "Dau tu",
+    "group": ""
+  },
+  {
+    "question": "Ứng dụng Techcombank Mobile là gì?",
+    "answer": "Là ứng dụng không chỉ giúp khách hàng chuyển tiền, thanh toán, quản lý tài chính cá nhân thuận tiện, dễ dàng và nhanh chóng mà còn giúp bạn có thể đăng ký mở tài khoản, đăng ký dịch vụ ngân hàng trực tuyến để sử dụng sản phẩm, dịch vụ của Techcombank ở bất cứ nơi đâu và bất kỳ lúc nào.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Ứng dụng Techcombank Mobile có thể sử dụng trên thiết bị nào?",
+    "answer": "Khách hàng có thể sử dụng ứng dụng Techcombank Mobile trên các thiết bị di động có hệ điều hành iOS từ 14.0 trở lên và Android 7.0 trở lên. Ngoài ra, Techcombank Mobile không được hỗ trợ cài đặt trên các thiết bị đã can thiệp ở mức độ hệ điều hành (jail break, unlock, rooted,...) nhằm bảo đảm an toàn bảo mật tài khoản và giao dịch của khách hàng.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Điều kiện để có thể bắt đầu sử dụng được ứng dụng Techcombank Mobile?",
+    "answer": "Khách hàng cần mở tài khoản thanh toán tại Techcombank, có thiết bị kết nối Internet và chạy hệ điều hành iOS 12.0 trở lên hoặc 7.0 trở lên với hệ điều hành Android để có thể cài đặt và sử dụng dịch vụ ngân hàng số của Techcombank.\n\nCác khách hàng đang sử dụng F@st Mobile thì cần đảm bảo thêm yêu cầu đã đăng ký Smart OTP trước khi chuyển sang ứng dụng mới Techcombank Mobile.\n\nCác khách hàng mới chưa sử dụng các sản phẩm, dịch vụ của Techcombank có thể đăng ký mở tài khoản và dịch vụ ngân hàng số trực tuyến ngay trên ứng dụng mà không cần tới quầy.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Ứng dụng Techcombank Mobile có điểm gì khác biệt với ứng dụng F@st Mobile trước đây?",
+    "answer": "Ứng dụng Techcombank Mobile mang nhiều ưu điểm và cải tiến vượt trội so với ứng dụng F@st Mobile trước đây nhằm đáp ứng được nhiều hơn nữa nhu cầu của mỗi khách hàng, với trải nghiệm mượt mà, sử dụng dễ dàng, và mức độ bảo mật cao hơn như:\n\n- Công cụ chuyển khoản và thanh toán toàn diện giúp bạn chuyển khoản nhanh chóng, dễ dàng hơn; việc quản lý hóa đơn trở nên thuận tiện hơn với việc tích hợp hình thức chuyển khoản và thanh toán bằng mã QR.\n\n- Tích hợp thêm với các sản phẩm như bảo hiểm và đầu tư giúp bạn dễ dàng quản lý các danh mục tài sản của mình ngay trên 1 ứng dụng duy nhất. Ngoài ra, bạn cũng có thể dễ dàng quản lý tài chính cá nhân với biểu đồ chi tiêu trực quan.\n\n- Tài khoản của bạn sẽ được bảo vệ qua nhiều lớp bảo mật từ việc chỉ được sử dụng ứng dụng trên một thiết bị duy nhất, xác thực bằng sinh trắc học như vân tay hay khuôn mặt, với giải pháp bảo mật hàng đầu, phòng chống giả mạo như ngăn chặn các thiết bị bẻ khóa truy cập ứng dụng.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Sử dụng ứng dụng Techcombank Mobile có mất phí không?",
+    "answer": "Việc sử dụng Techcombank Mobile là hoàn toàn miễn phí.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tải ứng dụng Techcombank Mobile như thế nào?",
+    "answer": "Khách hàng cần tải ứng dụng từ Apple Store (đối với hệ điều hành iOS) hoặc trên Google Play (đối với hệ điều hành Android), gõ từ khóa tìm kiếm \"Techcombank Mobile\", sau đó chọn Cài đặt để tải ứng dụng về thiết bị.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể sử dụng Techcombank Mobile khi ở nước ngoài không?",
+    "answer": "Bạn có thể sử dụng ứng dụng Techcombank Mobile ở bất kỳ đâu và bất cứ lúc nào trên thiết bị có kết nối Internet.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi phải làm gì khi bị mất điện thoại cài đặt ứng dụng Techcombank Mobile?",
+    "answer": "Bạn vui lòng liên hệ tổng đài 1800 588 822 hoặc tới CN/PGD Techcombank gần nhất để được hỗ trợ tạm khóa dịch vụ ngân hàng số cho đến khi nhận được thông báo khác.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tại sao bạn bè tôi đã được mời chuyển đổi từ F@st Mobile sang ứng dụng mới Techcombank Mobile, còn tôi thì chưa?",
+    "answer": "Để đảm bảo có thể hỗ trợ khách hàng chuyển đổi một cách tốt nhất, Techcombank sẽ chuyển đổi dần dần lần lượt từng nhóm khách hàng đang sử dụng F@st Mobile sang ứng dụng mới Techcombank Mobile. Techcombank sẽ gửi thông báo của ngân hàng thông qua ứng dụng F@st Mobile để mời khách hàng chuyển đổi. Vui lòng tiếp tục sử dụng F@st Mobile đến khi nhận được lời mời chuyển đổi bạn nhé.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi không tải được ứng dụng mới Techcombank Mobile?",
+    "answer": "Ứng dụng Techcombank Mobile chỉ hỗ trợ cài đặt trên thiết bị không bị bẻ khóa, có hệ điều hành Android 7.0 trở lên hoặc iOS 12.0 trở lên. Bạn cần kiểm tra lại thông tin thiết bị và nâng cấp hệ điều hành của thiết bị để tải và sử dụng.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Các bước chuyển đổi từ F@st Mobile sang Techcombank Mobile mà tôi cần thực hiện là gì?",
+    "answer": "Sau khi đăng nhập F@st Mobile và nhận được lời mời trên ứng dụng F@st Mobile về việc chuyển đổi sang ứng dụng mới Techcombank Mobile, bạn cần thực hiện các bước sau:\nĐọc giới thiệu về ứng dụng mới và các yêu cầu để chuyển đổi.Tạo mật khẩu mới và xác nhận lại, sau đó xác thực bằng Smart OTPTải ứng dụng Techcombank Mobile từ App Store/Google PlayMở ứng dụng, chọn \"Đăng nhập\", nhập tên đăng nhập và mật khẩu vừa tạo và nhập mã OTP gửi về số điện thoại đã đăng ký với TechcombankĐăng ký sinh trắc học và mã mở khóa\nSau khi hoàn tất các bước chuyển đổi trên, bạn có thể bắt đầu sử dụng ứng dụng Techcombank Mobile và tận hưởng những trải nghiệm vượt trội mới.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Sau khi chuyển sang ứng dụng mới Techcombank Mobile, tôi không thể sử dụng F@st i-Bank tại địa chỉ ib.techcombank.com.vn được nữa?",
+    "answer": "Trong tháng 11/2021, Techcombank ra mắt ứng dụng ngân hàng số Techcombank Mobile, kênh giao dịch ngân hàng điện tử Internet banking (Online banking) sẽ ra mắt vào tháng 12/2021. Khi bạn đã chuyển sang sử dụng hệ thống ngân hàng số mới thì sẽ không thể đăng nhập hệ thống ngân hàng điện tử cũ trước đây nữa, bao gồm cả F@st Mobile và F@st i-Bank.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi không còn tin nhắn SMS thông báo mật khẩu đăng nhập ngân hàng số do Techcombank cấp và chưa kịp kích hoạt dịch vụ. Tôi phải làm gì?",
+    "answer": "Trường hợp bạn đã có thẻ Techcombank, bạn có thể sử dụng tính năng \"Quên mật khẩu\" trên ứng dụng để tạo mật khẩu đăng nhập mới. Trường hợp bạn chưa có thẻ Techcombank, vui lòng tới CN/PGD Techcombank gần nhất để được hỗ trợ cấp lại mật khẩu đăng nhập tạm thời.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tại sao tôi không nhận được mã OTP gửi từ Techcombank?",
+    "answer": "Mã OTP sẽ được Techcombank gửi đến số điện thoại đã đăng ký với ngân hàng của bạn. Ngoài ra bạn cần đảm bảo thiết bị của bạn không cài đặt chặn tin nhắn được gửi từ Techcombank đến số điện thoại này.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể tạo mật khẩu đăng nhập ngân hàng số mới trùng với mật khẩu đăng nhập mặc định do Techcombank cấp được không?",
+    "answer": "Không, bạn không thể tạo mật khẩu mới trùng với 3 mật khẩu gần nhất, bao gồm cả các mật khẩu tạm thời do Techcombank cấp.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi đang ở nước ngoài, tôi có thể tiếp tục dùng ứng dụng ngân hàng số của Techcombank bình thường không?",
+    "answer": "Bạn có thể sử dụng dịch vụ trên Techcombank Mobile ở bất cứ nơi đâu với điện thoại di động có kết nối Internet và đã đăng ký dịch vụ chuyển vùng quốc tế nếu đang ở nước ngoài.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi có bắt buộc phải thiết lập sinh trắc học để sử dụng ứng dụng không?",
+    "answer": "Việc thiết lập cho phép sử dụng sinh trắc học trên ứng dụng là không bắt buộc. Bạn có thể bỏ qua bước này và thực hiện thiết lập sau bằng cách bấm vào lựa chọn \"Để sau\".",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tại sao tôi phải đăng ký thiết bị khi muốn sử dụng ứng dụng NHĐT của Techcombank trên thiết bị mới?",
+    "answer": "Việc sử dụng ứng dụng NHĐT chỉ có hiệu lực trên 1 thiết bị duy nhất, vì vậy bạn cần đăng ký thiết bị sử dụng và đăng ký lại thiết bị nếu đổi thiết bị cài đặt và sử dụng ứng dụng.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Mã mở khóa được dùng để làm gì?",
+    "answer": "Bạn bắt buộc tạo mã mở khóa để sử dụng cho việc đăng nhập ứng dụng và xác thực giao dịch.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Thiết lập sinh trắc học để làm gì?",
+    "answer": "Việc thiết lập sinh trắc học (vân tay/ khuôn mặt) giúp đăng nhập ứng dụng nhanh hơn và để sử dụng khi xác thực giao dịch. Tuy nhiên việc thiết lập này là không bắt buộc.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Nếu tôi xóa ứng dụng và cài đặt lại ứng dụng trên chính thiết bị đó thì tôi có cần đăng ký lại thiết bị không?",
+    "answer": "1. Nếu bạn đang sử dụng Techcombank Mobile trên thiết bị chạy hệ điều hành Android, sau khi xóa và tải lại, ứng dụng sẽ hiển thị yêu cầu bạn cần gửi tin nhắn SMS tới 8049 theo cú pháp: TCBT HUY SMARTOTP để gỡ bỏ đăng ký thiết bị trước đó. Sau khi nhận được tin nhắn từ 8049 xác nhận việc gỡ bỏ thiết bị cũ thành công, vui lòng thực hiện đăng ký thiết bị mới để tiếp tục sử dụng ứng dụng.\n\n2. Nếu bạn đang sử dụng Techcombank Mobile trên thiết bị chạy hệ điều hành iOS, sau khi xóa và tải lại, bạn chỉ cần thực hiện đăng ký lại thiết bị để tiếp tục sử dụng ứng dụng.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tại sao sau khi xóa ứng dụng, tôi tải lại ứng dụng trên chính thiết bị cũ mà vẫn nhận được thông báo về việc đang đăng ký sử dụng trên thiết bị khác?",
+    "answer": "Việc này không xảy ra với các khách hàng sử dụng ứng dụng trên các thiết bị hệ điều hành iOS. Tuy nhiên, do những điểm khác biệt của hệ điều hành Android, nếu xóa ứng dụng và cài đặt lên trên cùng thiết bị Android, bạn vẫn cần thực hiện gỡ bỏ thiết bị trước đó và đăng ký lại thiết bị để tiếp tục sử dụng.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi muốn cài lại ứng dụng Techcombank Mobile trên thiết bị mới để sử dụng. Tôi phải làm gì?",
+    "answer": "Quý khách vui lòng thực hiện \"Gỡ bỏ thiết bị\" trên thiết bị cũ hoặc soạn tin nhắn bằng số điện thoại đã đăng ký với Techcombank để gỡ bỏ trước khi chuyển sang sử dụng ứng dụng trên thiết bị mới. Tin nhắn được gửi từ số điện thoại đã đăng ký với ngân hàng theo cú pháp: TCBT HUY SMARTOTP gửi tới 8049 và thực hiện theo hướng dẫn của Ngân hàng. Ngoài ra, Quý khách cũng có thể gọi điện tới tổng đài 1800 588 822 hoặc tới CN/PGD Techcombank gần nhất để được hỗ trợ.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi xóa ứng dụng và cài đặt lại trên cùng thiết bị thì có thể tiếp tục sử dụng Techcombank Mobile bình thường không?",
+    "answer": "Quý khách vui lòng thực hiện \"Gỡ bỏ thiết bị\" trên ứng dụng Techcombank Mobile hoặc soạn tin nhắn bằng số điện thoại đã đăng ký với Techcombank để gỡ bỏ thiết bị. Tin nhắn được gửi từ số điện thoại đã đăng ký với ngân hàng theo cú pháp: TCBT HUY SMARTOTP gửi tới 8049 và thực hiện theo hướng dẫn của Ngân hàng. Ngoài ra, Quý khách cũng có thể gọi điện tới tổng đài 1800 588 822 hoặc tới CN/PGD Techcombank gần nhất để được hỗ trợ.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Đặc điểm của dịch vụ chuyển tiền nhanh 24/7 trên ứng dụng của Techcombank là gì?",
+    "answer": "Khi sử dụng dịch vụ chuyển tiền nhanh 24/7, giao dịch của bạn sẽ được xử lý ngay lập tức. Khi giao dịch được thực hiện thành công, tài khoản nguồn sẽ bị ghi nợ; tài khoản đích sẽ được ghi có ngay lập tức. Ngoài ra, dịch vụ sẽ được cung cấp 24/7. Hạn mức giao dịch tối thiểu là 50,000VND/giao dịch và tối đa là 500.000.000VND/giao dịch.\n\nHiện tại Techcombank mới chỉ cung cấp dịch vụ này bằng hình thức chuyển khoản qua số tài khoản. Techcombank sẽ ra mắt tính năng chuyển khoản nhanh 24/7 qua số thẻ ở các phiên bản sắp tới của ứng dụng Techcombank Mobile.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Dịch vụ chuyển khoản nhanh 24/7 có gì khác so với chuyển liên ngân hàng?",
+    "answer": "Khi sử dụng dịch vụ chuyển khoản nhanh 24/7, bạn sẽ được trải nghiệm thao tác chuyển tiền đơn giản, rút ngắn thời gian trong việc nhận và chuyển tiền ngoài Techcombank. Việc chuyển tiền thực hiện được mọi lúc, không bị phụ thuộc vào thời gian giao dịch của Ngân hàng.\n\nTrong khi đó, khi chuyển thường, bạn cần chờ trong vòng 1 ngày làm việc để giao dịch được thực hiện thành công.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tại sao tôi chuyển khoản 1 tỷ đồng cho bạn tôi bằng CK nhanh 24/7 nhưng lại nhận được thông báo nhận tiền muộn nhất vào ngày làm việc tiếp theo?",
+    "answer": "Để chuyển khoản nhanh 24/7, số tiền giao dịch của bạn phải lớn hơn 50.000 đồng nhưng không vượt quá 500.000.000 đồng. Do giao dịch của bạn là 1 tỷ đồng nên không thể thực hiện chuyển nhanh 24/7 được, do đó, hệ thống đã tự động chuyển sang hình thức chuyển liên ngân hàng thông thường và bạn của bạn sẽ nhận được tiền muộn nhất sau 1 ngày làm việc. Trong trường hợp bạn muốn chuyển và nhận tiền ngay lập tức, bạn cần chia nhỏ số tiền chuyển xuống dưới 500.000.000 đồng/giao dịch.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Làm thế nào để chuyển khoản qua số điện thoại?",
+    "answer": "Để chuyển khoản qua số điện thoại, bạn cần liên kết số điện thoại với một trong các tài khoản thanh toán của mình bằng cách chọn \"Liên kết số điện thoại\" trong mục \"Cài đặt\".",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi muốn nâng hạn mức chuyển khoản thì phải làm thế nào?",
+    "answer": "Hạn mức chuyển khoản của bạn được mặc định là 500.000.000VNĐ/ngày trên Techcombank Mobile, áp dụng với chuyển nhanh 24/7 và chuyển liên ngân hàng. Trong trường hợp muốn chuyển với số tiền lớn hơn nhưng không vượt quá 5 tỷ VNĐ, bạn có thể đăng nhập Techcombank Mobile để thay đổi hạn mức. Hạn mức mới thay đổi sẽ có hiệu lực trong vòng 30 ngày, sau đó sẽ trở lại hạn mức mặc định 500 triệu đồng/ngày.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Mã QR là gì?",
+    "answer": "Mã QR là dạng mã ma trận (hay mã vạch 2 chiều) chứa thông tin có thể đọc bởi mã vạch hay các thiết bị di động thông minh, là một tính năng được tích hợp trên ứng dụng Techcombank Mobile. Bạn có thể chuyển khoản hoặc thanh toán hóa đơn bằng mã QR tại các điểm chấp nhận thanh toán qua mã QR với Techcombank Mobile.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Sự khác biệt giữa giao dịch thanh toán bằng mã QR và thanh toán bằng thẻ như thế nào?",
+    "answer": "Với các giao dịch bằng thẻ, bạn cần tương tác trực tiếp với nhân viên bán hàng bằng việc đưa thẻ cho nhân viên để quẹt trên máy POS. Với thanh toán mã QR, bạn thực hiện thanh toán trên điện thoại, không sợ lộ thông tin cá nhân hay tiếp xúc trực tiếp với nhân viên bán hàng, đảm bảo an toàn trong bối cảnh dịch bệnh covid đang diễn biến phức tạp như hiện nay.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể thanh toán bằng mã QR tại các đơn vị chấp nhận thanh toán nào?",
+    "answer": "Hiện tại tính năng thanh toán qua QR code của Techcombank được chấp nhận thanh toán tại tất cả các đơn vị thanh toán của VN PAY và mPOS",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Chuyển tiền bằng mã QR khác gì so với chuyển tiền thông thường?",
+    "answer": "Với cách chuyển tiền thông thường sẽ cần nhiều thông tin như số tài khoản, tên người nhận. Nếu chuyển khoản thường không phải chuyển khoản nhanh còn cần đến cả thông tin về ngân hàng nhận và chi nhánh. Đối với QR code thì chỉ cần duy nhất 1 mã QR là bạn đã có thể thực hiện được giao dịch mà không cần nhập thủ công các thông tin tài khoản của người thụ hưởng, giảm thiểu sai sót trong quá trình giao dịch.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể chuyển tối đa bao nhiêu tiền bằng mã QR trên Techcombank Mobile?",
+    "answer": "Hạn mức chuyển tiền bằng mã QR trên Techcombank Mobile sẽ theo quy định hạn mức chuyển tiền 24/7 của Techcombank.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi có bị giới hạn số lượng tạo mã QR code không?",
+    "answer": "Số lượng mã QR không bị giới hạn. Bạn có thể tạo theo nhu cầu giao dịch phát sinh.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể thanh toán hóa đơn cho những loại dịch vụ nào trên Techcombank Mobile?",
+    "answer": "Bạn có thể thanh toán hóa đơn trên Techcombank Mobile cho một số dịch vụ như: Điện, nước, điện thoại di động trả trước, trả sau, điện thoại cố định, phí dịch vụ nhà ở, bảo hiểm, Internet, vé máy bay, vé tàu. Tính năng thanh toán học phí dự kiến sẽ ra mắt vào tháng 12/2021.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể nạp tiền di động trả trước hoặc thanh toán hóa đơn di động trả sau cho người khác trên Techcombank Mobile được không?",
+    "answer": "Bạn có thể nạp tiền di động trả trước hoặc thanh toán hóa đơn di động trả sau cho người khác trừ nhà mạng Viettel.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi có được gạch nợ ngay lập tức sau khi thanh toán hóa đơn thành công không?",
+    "answer": "Có, hóa đơn sẽ được gạch nợ ngay lập tức bên nhà cung cấp sau khi bạn giao dịch thanh toán hóa đơn thành công.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Khi nạp tiền điện thoại trả trước, các mã khuyến mãi có được áp dụng?",
+    "answer": "Khi nạp tiền điện thoại trả trước, nếu thời gian bạn nạp tiền trong thời hạn và thuê bao đáp ứng các điều kiện hưởng khuyến mãi theo quy định của nhà mạng thì sau khi nạp tiền thành công, bạn sẽ nhận được khuyến mại theo chương trình của nhà mạng.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Techcombank Mobile có hỗ trợ tính năng thanh toán hóa đơn tự động không?",
+    "answer": "Có, bạn có thể sử dụng tính năng cài đặt thanh toán hóa đơn tự động cho một số dịch vụ đã có trên Techcombank Mobile.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Biểu đồ chi tiêu dùng để làm gì?",
+    "answer": "Công cụ này được coi như một trợ lý tài chính cho người dùng, hỗ trợ bạn quản lý tài chính cá nhân bằng cách theo dõi thu chi trong một chu kỳ chi tiêu do chính bạn tự thiết lập. Tùy theo tình trạng chi tiêu tại từng thời điểm, bạn sẽ nhận được các thông điệp khác nhau từ ứng dụng để hỗ trợ quản lý chi tiêu tốt hơn. Biểu đồ này gồm 3 cột biểu thị cho dòng tiền vào, dòng tiền ra của tất cả các tài khoản mà bạn đang sở hữu cũng như số tiền tiết kiệm trong chu kỳ chi tiêu.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Chu kỳ chi tiêu của biểu đồ được hiểu như thế nào?",
+    "answer": "- Nếu bạn lựa chọn ngày nhận lương thì chu kỳ chi tiêu bắt đầu từ ngày nhận lương của tháng này đến (ngày nhận lương -1) của tháng sau\n\n- Nếu bạn không lựa chọn ngày nhận lương thì chu kỳ chi tiêu bắt đầu từ ngày đầu tháng đến ngày cuối tháng theo lịch dương",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể thay đổi hình nền ứng dụng theo sở thích trên Techcombank Mobile?",
+    "answer": "Bạn có thể lựa chọn thay đổi hình nền của ứng dụng với các hình ảnh có sẵn trên kho hình nền của ứng dụng bất cứ lúc nào.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi là chủ thẻ chính thì có thẻ quản lý cả thẻ phụ trên ứng dụng Techcombank Mobile của tôi được không?",
+    "answer": "Có, bạn sẽ nhìn thấy các thẻ chính và thẻ phụ của mình trên ứng dụng. Các thẻ chính sẽ hiển thị trước, sau đó đến các thẻ phụ.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi là chủ thẻ phụ thì có thể quản lý thẻ của mình trên ứng dụng Techcombank Mobile của tôi được không?",
+    "answer": "Không, nếu bạn là chủ thẻ phụ thì sẽ không nhìn thấy thẻ phụ của mình trên ứng dụng.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể sử dụng những tính năng gì trên Techcombank Mobile để quản lý thẻ?",
+    "answer": "Trên ứng dụng Techcombank Mobile, bạn có thể sử dụng các tính năng Quản lý thẻ như: Khóa/Mở khóa thẻ; Cấp lại mã PIN thẻ; Thay đổi hạn mức giao dịch thẻ; Cho phép thanh toán trực tuyến và Xem sao kê thẻ tín dụng.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi là chủ thẻ chính, tôi có thể khóa/mở khóa thẻ phụ trên ứng dụng Techcombank Mobile được không?",
+    "answer": "Nếu bạn là chủ thẻ chính thì bạn có thể khóa/mở khóa thẻ phụ trên ứng dụng Techcombank Mobile.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Thời gian thẻ bị khóa khi sử dụng tính năng Khóa thẻ là bao lâu?",
+    "answer": "Thẻ tạm thời bị khóa đến khi bạn mở khóa thẻ bằng cách thực hiện ngay trên ứng dụng này.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi có bị mất phí khi Cấp lại PIN của thẻ trên Techcombank Mobile không?",
+    "answer": "Không, biểu phí hiện hành của Techcombank hiện nay chưa áp dụng thu phí với việc yêu cầu cấp lại PIN trên Techcombank Mobile.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể đặt hạn mức bằng 0 với các giao dịch mà tôi không có nhu cầu sử dụng được không?",
+    "answer": "Được, tuy nhiên, hạn mức thay đổi chỉ có hiệu lực trong thời gian bạn đã lựa chọn và không quá 90 ngày.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể thay đổi hạn mức giao dịch thẻ lên tối đa bao nhiêu tiền trên ứng dụng Techcombank Mobile?",
+    "answer": "Bạn có thể thiết lập hạn mức tối đa 600 triệu cho tất cả các loại giao dịch thẻ được hiển thị trên ứng dụng.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi muốn điều chỉnh hạn mức giao dịch lên trên 600 triệu qua ứng dụng có được không?",
+    "answer": "Không, bạn chỉ có thể điều chỉnh hạn mức giao dịch lên tối đa 600 triệu qua ứng dụng. Để điều chỉnh hạn mức của các giao dịch bằng thẻ lên trên 600 triệu, bạn có thể yêu cầu hỗ trợ thông qua tổng đài 1800 588 822 hoặc tới CN/PGD Techcombank gần nhất để được hỗ trợ.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi có cần cung cấp thêm hồ sơ gì trong trường hợp đăng ký phát hành thẻ tín dụng trên ứng dụng Techcombank không?",
+    "answer": "KHÔNG.\n\nVới trường hợp đăng ký phát hành thẻ tín dụng qua ứng dụng Techcombank Mobile, bạn sẽ không cần cung cấp thêm bất kỳ hồ sơ nào và sẽ được nhận thẻ tại địa chỉ đăng ký.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tại sao tên của tôi hiển thị trên hình ảnh thẻ tại màn hình đăng ký mở thẻ không đầy đủ như tên tôi trên CMND đã cung cấp cho ngân hàng?",
+    "answer": "Họ tên của bạn khi in trên thẻ (bao gồm khoảng trắng giữa các từ) dài quá 19 ký tự nên các phần thông tin các tên đệm được viết tắt chữ cái đầu tiên để phù hợp với kích cỡ tiêu chuẩn của thẻ.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Trong trường hợp tôi đã thay đổi số CMND/Hộ chiếu so với số CMND/Hộ chiếu đã cung cấp cho Techcombank, tôi phải làm thế nào để nhận được thẻ?",
+    "answer": "Bạn cần cập nhật số CMND/Hộ chiếu mới tại chi nhánh của Techcombank trước khi nhận thẻ.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể mở tài khoản tiền gửi nào trên Techcombank Mobile?",
+    "answer": "Hiện tại bạn có thể mở tài khoản tiền gửi online trên ứng dụng Techcombank Mobile với sản phẩm Phát Lộc online và Tiền gửi online.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi được phép chọn tài khoản nào để nhận số tiền đáo hạn tài khoản tiền gửi?",
+    "answer": "Có, nếu bạn chủ động đáo hạn tài khoản tiền gửi online, bạn có thể lựa chọn tài khoản đáo hạn là tài khoản thanh toán đang trong trạng thái hoạt động bình thường, không bị khóa hoặc phong tỏa và không lựa chọn tài khoản thẻ tín dụng hoặc tài khoản thấu chi.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi được phép mở tài khoản tiền gửi online với số tiền tối thiểu bao nhiêu?",
+    "answer": "Bạn có thể mở tài khoản tiền gửi online với số tiền tối thiểu là 1 triệu đồng.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Số tiền mà tôi mở tài khoản tiền gửi online có tính vào hạn mức chuyển khoản trong ngày không?",
+    "answer": "Không, việc mở tài khoản tiền gửi online không ảnh hưởng đến hạn mức chuyển khoản trong ngày của Quý khách.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Các sổ tiết kiệm của tôi mở tại quầy có hiển thị trên ứng dụng Techcombank Mobile không?",
+    "answer": "Có, bạn có thể quản lý các sổ tiết kiệm mở tại quầy ngay trên ứng dụng Techcombank Mobile",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể tất toán các sổ tiết kiệm mở tại quầy qua ứng dụng Techcombank Mobile không?",
+    "answer": "Không, bạn không thể tất toán sổ tiết kiệm mở tại quầy qua ứng dụng Techcombank Mobile. Để tất toán sổ tiết kiệm mở tại quầy, bạn vui lòng tới CN/PGD gần nhất để được hỗ trợ.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Mở tài khoản đầu tư trên Techcombank Mobile có mất phí hay không?",
+    "answer": "Tính năng mở tài khoản chứng khoán trên ứng dụng ngân hàng điện tử của Techcombank hoàn toàn miễn phí.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Chỉ cần có tài khoản thanh toán tại Techcombank và sử dụng ứng dụng ngân hàng số Techcombank Mobile là có thể mở tài khoản chứng khoán?",
+    "answer": "Đúng, bạn chỉ cần có tài khoản thanh toán tại Techcombank và sử dụng ứng dụng ngân hàng điện tử Techcombank Mobile là có thể mở tài khoản chứng khoán.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi cần chuẩn bị giấy tờ gì để mở tài khoản chứng khoán ?",
+    "answer": "Bạn chỉ cần chuẩn bị CMND/CCCD để upload lên hệ thống theo hướng dẫn tại các bước mở tài khoản chứng khoán trên ứng dụng ngân hàng điện tử của Techcombank.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi muốn thay đổi số điện thoại đã đăng ký với ngân hàng để mở tài khoản chứng khoán?",
+    "answer": "Bạn vui lòng ra quầy giao dịch gần nhất của Techcombank để cập nhật thông tin số điện thoại trên hệ thống.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi sẽ điền thông tin địa chỉ nào để mở tài khoản chứng khoán trên ứng dụng ngân hàng điện tử?",
+    "answer": "Vui lòng điền thông tin địa chỉ liên hệ tại trường thông tin địa chỉ trên ứng dụng ngân hàng điện tử để thuận tiện trong việc liên hệ giữa bạn và Công ty Chứng khoán.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể chuyển tiền từ tài khoản thanh toán sang tài khoản đầu tư không?",
+    "answer": "Bạn có thể thực hiện chuyển tiền từ tài khoản thanh toán sang tài khoản đầu tư để thực hiện các giao dịch theo nhu cầu.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Đăng ký thông báo biến động số dư qua ứng dụng cần những điều kiện gì?",
+    "answer": "Để đăng ký thông báo biến động số dư qua ứng dụng, bạn chỉ cần đảm bảo những điều kiện đơn giản như:\n\n- Đã cài đặt ứng dụng\n\n- Đã bật chế độ cho phép nhận thông báo từ ứng dụng tại phần \"Cài đặt\" của thiết bị để nhận được các thông báo từ Techcombank\n\n- Thiết bị được kết nối mạng Internet thường xuyên trong quá trình sử dụng để không bỏ lỡ thông báo từ Techcombank.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Thông báo biến động số dư qua Techcombank Mobile có ưu điểm gì so với thông báo biến động số dư qua tin nhắn?",
+    "answer": "Dịch vụ thông báo biến động số dư qua ứng dụng Techcombank Mobile có rất nhiều ưu điểm vượt trội như:\n\n- Hoàn toàn miễn phí\n\n- Không cần Roaming để nhận biến động số dư khi đi công tác, du lịch nước ngoài\n\n- Dễ dàng quản lý số dư tài khoản\n\n- Bảo mật hơn cho số dư tài khoản cho khách hàng",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Đăng ký và sử dụng thông báo biến động số dư qua Techcombank Mobile có mất phí không?",
+    "answer": "Việc đăng ký và sử dụng thông báo biến động số dư qua ứng dụng là HOÀN TOÀN MIỄN PHÍ.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Dịch vụ thông báo biến động số dư đăng ký trên ứng dụng có bao gồm các thông báo về giao dịch thẻ tín dụng hay thông báo khoản vay đến hạn không?",
+    "answer": "Không, dịch vụ thông báo biến động số dư trên ứng dụng chỉ bao gồm các thông báo về giao dịch của tài khoản thanh toán của bạn.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể hủy dịch vụ thông báo biến động số dư tài khoản qua app hoặc SMS trên ứng dụng được không?",
+    "answer": "Bạn có thể chủ động đăng ký/hủy đăng ký nhận thông báo biến động số dư tài khoản thông qua thông báo đẩy trên ứng dụng hoặc thông qua SMS cho từng tài khoản thanh toán của mình mọi lúc, mọi nơi ngay trên ứng dụng Techcombank Mobile.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Nếu tôi mất điện thoại và cần phải khóa tài khoản NHĐT thì thông báo biến động số dư qua ứng dụng có bị hủy không?",
+    "answer": "Việc khóa dịch vụ ebanking không ảnh hưởng đến dịch vụ thông báo biến động số dư tài khoản.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Nếu đi du lịch nước ngoài, tôi có thể nhận được thông báo biến động số dư qua App hoặc qua SMS không?",
+    "answer": "Thông báo biến động số dư qua ứng dụng được thực hiện mọi lúc mọi nơi mà không cần roaming, (chỉ cần kết nối mạng internet và đã bật chế độ cho phép ứng dụng nhận thông báo trên thiết bị) kể cả khi bạn đi công tác hay du lịch ở nước ngoài. Với dịch vụ nhận thông báo biến động số dư qua SMS, bạn cần roaming để nhận được tin nhắn khi ở nước ngoài.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tại sao tôi chỉ quên mã mở khóa, mà ngoài việc tạo mã mở khóa mới, tôi lại phải thiết lập lại cả sinh trắc học?",
+    "answer": "Việc thiết lập lại mã mở khóa và sinh trắc học khi bạn quên mã mở khóa và không thể dùng tên đăng nhập và mật khẩu đăng nhập để đăng nhập lại ứng dụng nhằm đảm bảo tính bảo mật cho ứng dụng của bạn.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi muốn lấy lại mật khẩu tạm thời do Techcombank cấp do đã xóa SMS thì làm thế nào?",
+    "answer": "Bạn có thể sử dụng tính năng Quên mật khẩu để tạo mới mật khẩu đăng nhập bằng cách cung cấp thông tin CMND/CCCD, số thẻ, mã PIN thẻ và mã xác thực gửi về số điện thoại đã đăng ký.\n\nTrường hợp bạn chưa có thẻ, vui lòng mang CMND cần tới CN/PGD Techcombank gần nhất để được hỗ trợ cấp lại mật khẩu.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Điều gì sẽ xảy ra khi tôi nhập sai mã mở khóa vượt quá số lần cho phép?",
+    "answer": "Nếu nhập sai mã mở khóa quá 3 lần, bạn phải đăng nhập lại ứng dụng bằng tên đăng nhập và mật khẩu, sau đó đăng ký lại thiết bị bằng cách tạo mã mở khóa mới và thiết lập lại nhận diện sinh trắc học.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi quên mật khẩu đăng nhập thì có thể được cấp lại mật khẩu bằng cách nào?",
+    "answer": "Bạn có thể sử dụng tính năng Quên mật khẩu để tạo mới mật khẩu đăng nhập bằng cách cung cấp thông tin CMND/CCCD, số thẻ, mã PIN thẻ và mã xác thực gửi về số điện thoại đã đăng ký.\nTrường hợp bạn chưa có thẻ, vui lòng mang CMND cần tới CN/PGD Techcombank gần nhất để được hỗ trợ cấp lại mật khẩu.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi quên tên đăng nhập thì có thể được cấp lại tên đăng nhập bằng cách nào?",
+    "answer": "Bạn có thể sử dụng tính năng Quên tên đăng nhập để tạo mới mật khẩu đăng nhập bằng cách cung cấp thông tin CMND/CCCD, số thẻ, mã PIN thẻ và mã xác thực gửi về số điện thoại đã đăng ký.\nTrường hợp bạn chưa có thẻ, vui lòng mang CMND cần tới CN/PGD Techcombank gần nhất để được hỗ trợ cấp lại tên đăng nhập.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Mở tài khoản thanh toán theo phương thức định danh điện tử eKYC là gì?",
+    "answer": "Tài khoản định danh điện tử là phương thức đăng ký tài khoản thanh toán và dịch vụ ngân hàng điện tử mới trên ứng dụng của Techcombank mà không cần phải đến Chi nhánh của Techcombank. Bạn chỉ cần sử dụng số điện thoại, CMND/CCCD còn hiệu lực và hợp lệ là có thể đăng ký.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể sử dụng các Dịch vụ gì theo phương thức này?",
+    "answer": "Với tài khoản thanh toán và dịch vụ Ngân hàng số đăng ký theo phương thức eKYC, bạn có thể sử dụng các dịch vụ cơ bản của Techcombank như chuyển tiền, rút tiền mặt qua ứng dụng, chuyển tiền qua CMND, thanh toán hóa đơn, gửi tiết kiệm trực tuyến...\n\nMột số tính năng như đầu tư, kết nối với công ty chứng khoán, hay thay đổi hạn mức chuyển khoản sẽ chưa thể sử dụng ngay.\n\nHạn mức giao dịch của tài khoản thanh toán của bạn là: 100 triệu đồng/tháng",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Nếu tôi mở thẻ Debit (thẻ thanh toán Quốc tế) trong luồng đăng ký thì hạn mức giao dịch của tôi có bị thay đổi không?",
+    "answer": "Hạn mức giao dịch của bạn như sau:\n\n- Hạn mức của thẻ là 40 triệu đồng/tháng;\n\n- Hạn mức giao dịch của tài khoản thanh toán là 60 triệu đồng/tháng.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi muốn thay đổi hạn mức với tài khoản định danh điện tử có được không? Làm thế nào để tôi thay đổi hạn mức?",
+    "answer": "Bạn vui lòng đến chi nhánh Techcombank để được hỗ trợ, đồng thời nâng cấp sử dụng dịch vụ đầy đủ. Sau khi nâng cấp tài khoản, bạn có thể giao dịch với hạn mức 500 triệu đồng/ ngày và chủ động thay đổi hạn mức giao dịch trên ứng dụng của Techcombank.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Người nhà tôi không ở Việt Nam thì có được đăng ký được không?",
+    "answer": "Tài khoản được mở bằng hình thức định danh điện tử hiện nay chỉ áp dụng cho công dân Việt Nam cư trú tại Việt Nam.\n\nTrường hợp đang ở nước ngoài, Trường hợp đang ở nước ngoài, chúng tôi khuyến nghị bạn không đăng ký tài khoản theo hình thức này.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi có thể dùng CCCD gắn chip để định danh tài khoản không?",
+    "answer": "Hoàn toàn được. Bạn có thể sử dụng các Giấy tờ tùy thân sau để đăng ký mở TK và dịch vụ NHĐT theo hình thức eKYC:\n- CMND 9 số;\n- CMND 12 số;\n- CCCD;\n- CCCD gắn chíp.\nGiấy tờ tùy thân sử dụng để đăng ký yêu cầu vẫn còn hiệu lực, không bị nhàu nát, cắt góc, đục lỗ, không chấp nhận giấy bản sao, photo.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi đăng ký định danh điện tử nhưng sau đó ra Chi nhánh để nâng cấp tài khoản luôn được không?",
+    "answer": "Sau khi đăng ký tài khoản thành công qua hình thức định danh điện tử, bạn vui lòng đến Chi nhánh của Techcombank sau 48h để cập nhật thông tin.",
+    "category": "Techcombank Mobile",
+    "group": ""
+  },
+  {
+    "question": "Tôi phải làm gì khi bị mất thẻ?",
+    "answer": "Techcombank có chức năng thanh toán bằng mã QR không?",
+    "category": "Ho tro chung",
+    "group": ""
+  },
+  {
+    "question": "Techcombank có chức năng thanh toán bằng mã QR không?",
+    "answer": "Dịch vụ chuyển khoản nhanh 24/7 có gì khác so với chuyển liên ngân hàng?",
+    "category": "Ho tro chung",
+    "group": ""
+  },
+  {
+    "question": "Gọi tới hotline",
+    "answer": "Khách hàng cá nhân: 1800 588 822 (trong nước), 84 24 3944 6699 (nước ngoài)",
+    "category": "Ho tro chung",
+    "group": ""
+  },
+  {
+    "question": "Gửi email",
+    "answer": "call_center@techcombank.com.vn",
+    "category": "Ho tro chung",
+    "group": ""
+  },
+  {
+    "question": "Đến chi nhánh",
+    "answer": "Hơn 300 chi nhánh tại Việt Nam",
+    "category": "Ho tro chung",
+    "group": ""
+  }
+]

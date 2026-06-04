@@ -1,13 +1,62 @@
-# Codebase
+# Codebase - Hướng Dẫn Chạy Prototype & Cấu Hình
 
-Đây là nơi nhóm nộp toàn bộ phần code của prototype. Mục tiêu là để giảng viên và các nhóm khác nhìn được sản phẩm chạy như thế nào, và mỗi thành viên đã đóng góp ra sao.
+Thư mục này chứa toàn bộ mã nguồn của **Techcombank AI Chatbot Prototype**, một trợ lý ảo hỗ trợ hỏi đáp trực tuyến thông minh (lãi suất, biểu phí, thẻ, tài khoản) tích hợp trực tiếp trên giao diện Techcombank Mobile.
 
-## Nhóm cần làm
+---
 
-- Đưa mã nguồn của prototype vào folder này. Nếu prototype được deploy hoặc host ở nơi khác, hãy để lại đường link kèm hướng dẫn truy cập.
-- Trong file `README.md` của nhóm, ghi rõ ba điều: cách chạy prototype (các bước cài đặt và biến môi trường nếu cần), những công cụ và API đã dùng (model AI, framework, công cụ dựng giao diện…), và phần phân công ai làm gì.
-- Mỗi thành viên nên có ít nhất một commit thực chất trong repo — đây là căn cứ để ghi nhận đóng góp của từng người.
+## 1. Hướng dẫn chạy nhanh (Quick Start)
 
-## Lưu ý
+### Bước 1: Khởi chạy HTTP Server cục bộ
+Sử dụng Python để chạy một server tĩnh ngay tại thư mục `codebase/`:
+```bash
+# Di chuyển vào thư mục codebase (nếu chưa ở đó)
+cd codebase
 
-Đừng commit những thông tin nhạy cảm như API key hay file `.env`. Nếu prototype cần các biến môi trường, hãy dùng một file `.env.example` để mô tả các biến đó thay vì để lộ giá trị thật.
+# Khởi chạy server tĩnh
+python -m http.server 8000
+```
+
+### Bước 2: Truy cập ứng dụng
+Mở trình duyệt bất kỳ và truy cập vào địa chỉ:
+👉 **[http://localhost:8000](http://localhost:8000)**
+
+---
+
+## 2. Cấu hình API Keys (LLM) để kích hoạt ReAct Agent
+
+Mặc định, chatbot sẽ tự động chạy bằng công cụ tìm kiếm cục bộ **TF-IDF Search Engine** (không cần API Key). Để nâng cấp chatbot thành **ReAct Agent** thông minh có khả năng suy luận từng bước, bạn cần cấu hình API Key:
+
+### Cách 1: Qua giao diện ứng dụng (Khuyên dùng)
+1. Nhấp vào **biểu tượng bánh răng (Settings)** ở góc trên cùng bên phải khung chat.
+2. Nhập API Key của bạn (OpenAI hoặc Mistral).
+3. Chọn mô hình tương ứng (ví dụ: `gpt-4o-mini` hoặc `mistral-large-latest`).
+4. Nhấp **Lưu Cấu Hình**.
+*(API Key sẽ được lưu an toàn trong trình duyệt của bạn qua localStorage)*
+
+### Cách 2: Qua tệp `config.js`
+1. Đổi tên tệp `config.js.example` thành `config.js` (hoặc sửa trực tiếp tệp `config.js` hiện có).
+2. Điền khóa API vào trường `OPENAI_API_KEY` hoặc `MISTRAL_API_KEY`:
+```javascript
+window.ENV = {
+    OPENAI_API_KEY: "sk-proj-YOUR_ACTUAL_API_KEY",
+    OPENAI_MODEL: "gpt-4o-mini",
+    MISTRAL_API_KEY: "YOUR_ACTUAL_MISTRAL_API_KEY",
+    MISTRAL_MODEL: "mistral-large-latest"
+};
+```
+*Lưu ý: Tệp `config.js` chứa key thực tế nên được thêm vào `.gitignore` để tránh rò rỉ mã bảo mật lên GitHub.*
+
+---
+
+## 3. Các Công Cụ & Mô Hình Sử Dụng
+- **Mô hình AI:** `gpt-4o-mini` (OpenAI), `mistral-large-latest` (Mistral AI).
+- **Mô hình tìm kiếm cục bộ (Fallback):** Thuật toán TF-IDF kết hợp Cosine Similarity tìm câu hỏi FAQ gần nhất.
+- **Frontend UI:** HTML5, CSS3, Vanilla JS (không dùng thư viện ngoài ngoại trừ bộ icon FontAwesome).
+
+---
+
+## 4. Phân công đóng góp (Team Roles)
+
+- **Giang Thanh Công** (Product Owner / Spec Lead / Presenter): Viết tài liệu SPEC, thiết kế kịch bản giảm thiểu ảo giác, thiết lập cấu trúc repo và kịch bản demo.
+- **Thành viên 2** (AI Developer & QA Tester): Phát triển cấu trúc Prompt-Engineering cho ReAct Agent, thu thập dữ liệu FAQ ngân hàng thực tế (`tcb_faq.json`) và kiểm thử chất lượng Q&A.
+- **Thành viên 3** (UI/UX Builder & Frontend Dev): Xây dựng giao diện mô phỏng điện thoại di động, thanh menu Sidebar, trang Help & Support, khung chat nổi và hiệu ứng Face ID động.

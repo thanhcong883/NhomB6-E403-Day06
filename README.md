@@ -1,103 +1,56 @@
 # Batch 02 · Day 06 — AI Product Hackathon
+# Tên nhóm: B6 E403
 
-> SPEC → Prototype → Demo. Hôm nay không có bài giảng mới — hôm nay chứng minh: SPEC là giả thuyết, prototype là bằng chứng, demo là thuyết phục.
+Dự án phát triển **Techcombank Smart Chatbot** - giải pháp hỏi đáp thông tin thông minh tích hợp trên ứng dụng Techcombank Mobile, giúp cải thiện trải nghiệm khách hàng và bảo vệ tài sản của họ trong các trường hợp khẩn cấp.
 
 ---
 
-## Cách nộp bài
+## 👥 Danh Sách Thành Viên Nhóm
 
-**Đại diện nhóm tạo MỘT repo nhóm**, đặt tên:
+| Mã học viên | Họ và Tên | Vai trò chính |
+|-------------|-----------|---------------|
+| `HV0001` (Ví dụ) | **Giang Thanh Công** | **Product Owner / Spec Lead / Presenter** (Viết SPEC, thiết kế kịch bản, slide pitch) |
+| `HV0002` (Ví dụ) | **** | **AI Developer & QA Tester** (Prompt-Engineering, RAG, kiểm thử chất lượng Q&A) |
+| `HV0003` (Ví dụ) | **Thành viên 3** | **UI/UX Builder & Frontend Dev** (Xây dựng UI, hoạt cảnh Face ID, Sidebar) |
 
+*(Lưu ý: Vui lòng cập nhật mã học viên và họ tên thực tế của các thành viên trước khi nộp bài)*
+
+---
+
+## 📂 Cấu Trúc Repository
+
+```text
+Day06-E403-NhomB6/
+├── README.md        ← (Tệp này) Danh sách thành viên + giới thiệu ngắn sản phẩm
+├── spec/            ← Hướng dẫn và tài liệu SPEC sản phẩm chi tiết
+│   ├── spec.md      ← Tài liệu đặc tả (đã tích hợp bằng chứng và kịch bản lỗi)
+│   └── images/      ← Hình ảnh minh họa điểm đau và giao diện ứng dụng
+└── codebase/        ← Toàn bộ mã nguồn chạy được của Prototype
+    ├── README.md    ← Hướng dẫn cài đặt và chạy thử prototype
+    ├── index.html   ← Giao diện mô phỏng ứng dụng di động
+    ├── style.css    ← Định dạng giao diện và hiệu ứng động
+    ├── app.js       ← Logic xử lý hội thoại, TF-IDF và ReAct Agent
+    ├── config.js    ← Tệp cấu hình chứa API Key (đã được làm sạch)
+    └── tcb_faq.json ← Cơ sở tri thức câu hỏi thường gặp của Techcombank
 ```
-Day06-Lop-NhomXX
-```
-
-Ví dụ: `Day06-C401-Nhom03`
-
-- **README của repo nhóm phải liệt kê đủ thành viên** — mỗi người gồm **mã học viên + họ và tên**.
-- Đại diện nhóm nộp **link repo** lên LMS. **Hạn nộp: 23:59 ngày 04/06/2026.**
-- Mỗi thành viên cần **ít nhất một commit thực chất** trong repo (không commit = mất điểm cá nhân).
-
-### Cấu trúc repo nhóm
-
-```
-Day06-Lop-NhomXX/
-├── README.md        ← Danh sách thành viên (mã HV + họ tên) + mô tả ngắn sản phẩm
-├── spec/            ← SPEC sản phẩm (xem hướng dẫn trong spec/)
-└── codebase/        ← Toàn bộ code prototype (xem hướng dẫn trong codebase/)
-```
 
 ---
 
-## Lịch ngày 06 — 04/06/2026
+## 🚀 Giới Thiệu Sản Phẩm: Techcombank Smart Chatbot
 
-| Giờ | Mốc | Cần đạt |
-|-----|-----|---------|
-| Sáng | Build | Bắt đầu từ SPEC nhẹ đã làm ở Day 5 |
-| **11:00** | Checkpoint 1 | **Show được ít nhất mockup/prototype chạy được** |
-| **13:00** | Checkpoint 2 | **Lắp được AI vào ít nhất 1 flow** |
-| **15:30** | Checkpoint 3 | **Chuẩn bị xong tài liệu demo + slide** |
-| **16:00** | Demo round | Trình bày trong zone, 10 phút/nhóm |
+### 💡 Bối cảnh & Điểm đau
+Khách hàng sử dụng Techcombank Mobile thường xuyên gặp bất tiện khi tra cứu thông tin (lãi suất gửi tiết kiệm, biểu phí thẻ thường niên, hạn mức chuyển khoản). Do ứng dụng hiện tại thiếu tính năng tìm kiếm thông minh, người dùng phải thoát khỏi app để tìm kiếm trên Google, gây nguy cơ rò rỉ phiên bảo mật và rủi ro đọc phải thông tin giả mạo hoặc lỗi thời.
 
----
-
-## Tracks
-
-Mỗi nhóm chọn một lĩnh vực, lấy một app thật trong đó để soi và cải tiến:
-
-| Track | App thật gợi ý |
-|-------|----------------|
-| **Learning OS** (Vin AI Thực Chiến) | LMS khóa học, Discord lớp |
-| **Travel & Hospitality** | Vinpearl, Sun World / SunGroup |
-| **Food & Local Delivery** | ShopeeFood, GrabFood, BeFood, Xanh SM Ngon |
-| **Personal Finance** | MoMo, ZaloPay, app ngân hàng |
-| **Healthcare** | Vinmec, Long Châu, Pharmacity |
-
-> Các nhóm **cùng track** ngồi **cùng một zone** khi demo.
+### 🌟 Giải pháp: Trợ lý Hỏi đáp thông minh
+**Techcombank Smart Chatbot** tích hợp sâu trong ứng dụng di động, mang lại:
+1. **Hỏi đáp thông tin tức thời:** Tìm kiếm và phản hồi chính xác câu hỏi trong cơ sở tri thức chính thức bằng ngôn ngữ tự nhiên nhờ thuật toán TF-IDF Search Engine hoặc ReAct AI Agent.
+2. **Cảnh báo khẩn cấp (Emergency Filter):** Lọc từ khóa rủi ro (lừa đảo, mất tiền, hack) để đưa ra chỉ dẫn bảo vệ tài sản và nút gọi hotline ngay lập tức (0ms delay).
+3. **Khóa thẻ một chạm với Face ID:** Cho phép khóa thẻ khẩn cấp qua chatbot kết hợp xác thực khuôn mặt sinh trắc học (mô phỏng quét lỗi và quét thành công).
+4. **Resilience (Kết nối người thật):** Chuyển đổi mượt mà sang Điện thoại viên Thu Trang khi chatbot không chắc chắn về thông tin, lưu giữ nguyên lịch sử chat của khách hàng.
 
 ---
 
-## Kỳ vọng mỗi demo
+## 📖 Hướng Dẫn Truy Cập Nhanh
 
-1. **Product Canvas** — giới thiệu ý tưởng và nỗi đau (painpoint) của người dùng.
-2. **Demo full luồng end-to-end** — show cả happy case lẫn error case.
-3. **AI chạy thật trong ít nhất 1 flow** — không chỉ mockup tĩnh.
-
----
-
-## Demo round (16:00)
-
-- Mỗi nhóm **10 phút** (≈ 5 phút trình bày + 5 phút Q&A).
-- Các nhóm khác **phản biện, đặt câu hỏi**.
-- **Đánh giá chéo qua form**: thành viên các nhóm khác chấm điểm.
-- **Tổng kết**: nhóm điểm cao nhất mỗi zone được **bonus**; còn thời gian thì các nhóm điểm cao **present trước cả lớp**; giảng viên đánh giá.
-
-Chi tiết luật chơi + cách chấm: [`hackathon-rules.md`](hackathon-rules.md)
-
----
-
-## Chấm điểm (Day 5 + Day 6 = 100 điểm)
-
-| Hạng mục | Điểm |
-|----------|------|
-| SPEC | 25 |
-| Prototype | 15 |
-| Demo Day | 25 |
-| Bài tập UX (Day 5) | 10 |
-| Phản ánh cá nhân (reflection) | 25 |
-
-**Điều kiện chặn:** prototype không có lời gọi AI thật → giới hạn 4/10 · không có commit → mất điểm cá nhân · không giải thích được phần mình khi bị hỏi → 0 điểm demo cá nhân.
-
----
-
-## Tài liệu trong repo này
-
-| Folder / file | Nội dung |
-|---------------|----------|
-| [`hackathon-rules.md`](hackathon-rules.md) | Luật chơi, lịch, demo round, cách chấm |
-| [`spec/`](spec/) | Hướng dẫn viết SPEC sản phẩm (nối tiếp SPEC nhẹ Day 5) |
-| [`codebase/`](codebase/) | Yêu cầu nộp code prototype |
-
----
-
-*Batch 02 · Ngày 06 — VinUni A20 · AI Thực Chiến · 2026*
+- Xem tài liệu phân tích và thiết kế sản phẩm chi tiết: [Tài liệu SPEC](file:///c:/Users/giang/Desktop/New%20folder/Batch02-Day06-AI-Product-Hackathon/spec/spec.md).
+- Xem hướng dẫn chạy thử giao diện và cài đặt mã nguồn: [Hướng dẫn chạy Codebase](file:///c:/Users/giang/Desktop/New%20folder/Batch02-Day06-AI-Product-Hackathon/codebase/README.md).
