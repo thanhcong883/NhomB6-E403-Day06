@@ -9,11 +9,11 @@ Dự án phát triển **Techcombank Smart Chatbot** - giải pháp hỏi đáp 
 
 | Mã học viên | Họ và Tên | Vai trò chính |
 |-------------|-----------|---------------|
-| `HV0001` (Ví dụ) | **Giang Thanh Công** | **Product Owner / Spec Lead / Presenter** (Viết SPEC, thiết kế kịch bản, slide pitch) |
-| `HV0002` (Ví dụ) | **** | **AI Developer & QA Tester** (Prompt-Engineering, RAG, kiểm thử chất lượng Q&A) |
-| `HV0003` (Ví dụ) | **Thành viên 3** | **UI/UX Builder & Frontend Dev** (Xây dựng UI, hoạt cảnh Face ID, Sidebar) |
+| `2A202600544` | **Giang Thanh Công** | **Product Owner / Spec Lead / Presenter** (Viết SPEC, thiết kế kịch bản, slide pitch) |
+| `2A202600705`  | **Nguyễn Minh Hiếu** | **AI Developer & QA Tester** (Prompt-Engineering, RAG, kiểm thử chất lượng Q&A) |
+| `2A202600753`  | **Phạm Văn Công** | **UI/UX Builder & Frontend Dev** (Xây dựng UI, hoạt cảnh Face ID, Sidebar) |
 
-*(Lưu ý: Vui lòng cập nhật mã học viên và họ tên thực tế của các thành viên trước khi nộp bài)*
+
 
 ---
 
