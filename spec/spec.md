@@ -121,5 +121,5 @@ flowchart TD
 ## 8. Phân công vai trò (Ownership)
 
 - **Giang Thanh Công** (Product Owner / Spec Lead / Presenter): Viết tài liệu SPEC, thiết kế kịch bản giảm ảo giác, chuẩn bị slide thuyết trình và quản lý kiểm thử chất lượng.
-- **Thành viên 2** (AI Developer & QA Tester): Cấu hình prompt cho ReAct Agent, phát triển công cụ gọi hàm (`search_faq`, `search_web`, `lock_card`, `escalate`), xây dựng dữ liệu tri thức tĩnh `tcb_faq.json` và thực hiện kiểm thử tự động.
-- **Thành viên 3** (UI/UX Builder & Frontend Dev): Phát triển mã nguồn giao diện HTML/CSS, mô phỏng hoạt cảnh Face ID rung lắc báo lỗi, xây dựng thanh Sidebar và các màn hình chuyển tiếp trạng thái.
+- **Nguyễn Minh Hiếu** (AI Developer & QA Tester): Cấu hình prompt cho ReAct Agent, phát triển công cụ gọi hàm (`search_faq`, `search_web`, `lock_card`, `escalate`), xây dựng dữ liệu tri thức tĩnh `tcb_faq.json` và thực hiện kiểm thử tự động.
+- **Phạm Văn Công** (UI/UX Builder & Frontend Dev): Phát triển mã nguồn giao diện HTML/CSS, mô phỏng hoạt cảnh Face ID rung lắc báo lỗi, xây dựng thanh Sidebar và các màn hình chuyển tiếp trạng thái.
